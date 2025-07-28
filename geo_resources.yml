@@ -1,0 +1,241 @@
+LIORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&b锂矿石'
+    lore:
+    - '&7&l质地不错的矿石!'
+    material_type: skull_hash
+    material: 59542aafdbef778594ea70fc20694150827eb65b992ef01d3abd5c0e53808cac
+  max_deviation: 5
+  geo_name: '&b锂矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 6
+KOORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&6&l籌矿石'
+    lore:
+    - '&2&l稀有的矿石，用途不明!'
+    material_type: skull_hash
+    material: 76b9147ed67ad34c7bf6a1f3efbfc92838f0216fe4be73669e23a23321640af7
+  max_deviation: 3
+  geo_name: '&6&l籌矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 3
+    nether: 3
+HUANGYUORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&4&l黄玉矿石'
+    lore:
+    - '&3&l大量产出的矿石!'
+    material_type: skull_hash
+    material: 2b6fb0b59578b90f71bbf51ba45a256bcfcde08d97eceec9e804a7c79b4223d0
+  max_deviation: 6
+  geo_name: '&4&l黄玉矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 10
+CHANORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&6&l夼矿石'
+    lore:
+    - '&b&l来自下界的专属矿物!'
+    material_type: skull_hash
+    material: 4caf5ca4c51b7ec090e74bb150b07a23db50d5b9b79eda6a718bba1040b3ef18
+  max_deviation: 9
+  geo_name: '&6&l夼矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    nether: 6
+RONGYANORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&7&l熔岩矿石'
+    lore:
+    - '&4&l用于加工一些机器所需的合金（在下界可以大量产出）!'
+    material_type: skull_hash
+    material: ed8b7e6f939992750c27a26d940e222e2f3c9e15aebe68123e77f1a12f2e4661
+  max_deviation: 15
+  geo_name: '&7&l熔岩矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    nether: 10
+YOUORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&a&l铀矿石'
+    lore:
+    - '&2&l含有微小辐射的矿石（也许是铀的不错产出方式）!'
+    material_type: skull_hash
+    material: ddc367acef8b96bc3b8e5cae6cf438fb5d5bb287fef018b149506148a6669adb
+  max_deviation: 5
+  geo_name: '&a&l铀矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 6
+TAIORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&7&l钛矿石'
+    lore:
+    - '&d&l具有良好延展性的矿物，用于制作机器核心!'
+    material_type: skull_hash
+    material: ab32821ef3f7f1b8544ad62ad4a3dfaf06bafede7130f3aa92905db3fe99841c
+  max_deviation: 10
+  geo_name: '&7&l钛矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 15
+XINZHIORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&b&l心智晶核'
+    lore:
+    - '&7&l稀有矿物资源，不可再生！！！'
+    material_type: skull_hash
+    material: 904bef1ff44f5c979639c574b55187ce236c3cf173295ad45b50407fef4e92
+  max_deviation: 12
+  geo_name: '&b&l心智晶核'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 6
+LINGXIORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&d&l灵息石'
+    lore:
+    - '&8&l十分美观的矿石，由它制作的合金可以改善发电效率！!'
+    material_type: skull_hash
+    material: 59709518ecb2fd48a9815b26b3221a30f16bf05097105ed086f5eb817991
+  max_deviation: 10
+  geo_name: '&d&l灵息石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 8
+CHONGNENGDIANORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&b&l充能电矿'
+    lore:
+    - '&4&l散发无穷的电能，小心不要和TNT有所接触！!'
+    material_type: skull_hash
+    material: f651d2edf84e23c4a8f19b41cde704c935e910205de44b1fe4f6bd970ddb0a3
+  max_deviation: 7
+  geo_name: '&b&l充能电矿'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 5
+XUWUORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&7&l虚无矿石'
+    lore:
+    - '&3&l虚空的力量（仅限末地产出）！!'
+    material_type: skull_hash
+    material: 93537ef088990799db857e6446743371dc78f50fbb11bdb94acf23fcfa08e963
+  max_deviation: 10
+  geo_name: '&7&l虚无矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 3
+MYORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&3&lMyting 矿石'
+    lore:
+    - '&d&l神秘矿石作用未知（仅限末地产出）！!'
+    material_type: skull_hash
+    material: f7aaf2ee64bdb211014c7ecc7006faa23448d78f4bb902e8a1325e1c9d7f11e
+  max_deviation: 8
+  geo_name: '&3&lMyting 矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 5
+ABORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&9&lAmbrosium 矿石'
+    lore:
+    - '&1&l神秘矿石作用未知（仅限末地产出）！!'
+    material_type: skull_hash
+    material: 17e042ed1e6ddb56eb6f357499b656302e2bfca0e6ac583f0f3c6dad3bf79f02
+  max_deviation: 6
+  geo_name: '&9&lAmbrosium 矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    the_end: 4
+LIUORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&3&l硫矿石'
+    lore:
+    - '&0&l也许这是工业发展的开始吧！!'
+    material_type: skull_hash
+    material: 229b43781b6f9461290fe92cb1d54b28b158b534aa80a87eff2f786c873e25
+  max_deviation: 20
+  geo_name: '&3&l硫矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 15
+PSORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&d&l粉羊矿石'
+    lore:
+    - '&4&l作者最珍贵的矿石，也许你可以把作者吸引过来！!'
+    material_type: skull_hash
+    material: d827bf889869d7433dfd9e0cec6fd8f444fd2b622673cf2416655ee30e67772f
+  max_deviation: 2
+  geo_name: '&d&l粉羊矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 1
+ZBORE:
+  lateInit: false
+  item_group: dlzy
+  item:
+    name: '&b&l湛蓝矿石'
+    lore:
+    - '&4&l充斥着海洋的力量！!'
+    material_type: skull_hash
+    material: ca17f9dbac105ac26b470f97155b398c09ce7c3b0d5409db55e1bc254864ca63
+  max_deviation: 14
+  geo_name: '&b&l湛蓝矿石'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal: 10

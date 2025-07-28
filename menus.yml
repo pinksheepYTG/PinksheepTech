@@ -1,0 +1,3392 @@
+JJDZ:
+  title: '&2&l究极电阻'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+HE_SU_SHUAI:
+  title: '&b&l核速衰'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: orange_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+JIE_JING_CHULI:
+  title: '#f242f2结#db68ee晶#c48eea凝#aeb3e5聚#97d9e1器'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: orange_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+NQFJY:
+  title: '&9&l冷却分解仪'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GYHJL:
+  title: '&c&l工业万用炉'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+BCJGC:
+  title: '&4&l板材加工厂'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXSCQ:
+  title: '&6&l导线生产器'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: SHEARS
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+TUTUNJI:
+  title: '&4&l钍吞吐机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: SLIME_BALL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+UUYTJ:
+  title: '&5&lUU物质一体机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: PURPLE_DYE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+XKDYTH:
+  title: '&8&l虚空锭一体机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: IRON_INGOT
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+NANGUA_GY:
+  title: '&6南瓜雕刻机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: SHEARS
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GAIZAO_ZHIZUO_I:
+  title: '&b&l改造制作仪 &7- &aI'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: IRON_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GAIZAO_ZHIZUO_II:
+  title: '&b&l改造制作仪 &7- &eII'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GAIZAO_ZHIZUO_III:
+  title: '&b&l改造制作仪 &7- &6III'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_HOE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GAIZAO_ZHIZUO_IV:
+  title: '&b&l改造制作仪 &7- &cIV'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_HOE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+GAIZAO_ZHIZUO_V:
+  title: '&b&l改造制作仪 &7- &4V'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_HOE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXTFZZQ:
+  title: '&b&l定向铜粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXTIEFZZQ:
+  title: '&b&l定向铁粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXJFZZQ:
+  title: '&b&l定向金粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXXFZZQ:
+  title: '&b&l定向锡粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXYFZZQ:
+  title: '&b&l定向银粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXQFZZQ:
+  title: '&b&l定向铅粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXLFZZQ:
+  title: '&b&l定向铝粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXXINFZZQ:
+  title: '&b&l定向锌粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+DXMFZZQ:
+  title: '&b&l定向镁粉磨粉机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+PTFDJ:
+  title: '&b&l 平替发电机 (初级)'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+PTFDJPTFDJ_ZHONGJI:
+  title: '&b&l平替发电机 (中级)'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+JYXKZSC:
+  title: '&5&l精英生产器'
+  slots: {}
+YCCKNJ:
+  title: '&b&l一重草方块凝聚器'
+  slots: {}
+YCDYYNJ:
+  title: '&b&l一重地狱岩凝聚器'
+  slots: {}
+YCMDSNJ:
+  title: '&b&l一重末地石凝聚器'
+  slots: {}
+COAL_ORESC:
+  title: '&b&l煤矿石生成器'
+  slots: {}
+IRON_ORESC:
+  title: '&b&l铁矿石生成器'
+  slots: {}
+COPPER_ORESC:
+  title: '&b&l铜矿石生成器'
+  slots: {}
+REDSTONE_ORESC:
+  title: '&b&l红石矿石生成器'
+  slots: {}
+GOLD_ORESC:
+  title: '&b&l金矿石生成器'
+  slots: {}
+EMERALD_ORESC:
+  title: '&b&l绿宝石矿石生成器'
+  slots: {}
+LAPIS_ORESC:
+  title: '&b&l青金石矿石生成器'
+  slots: {}
+DIAMOND_ORESC:
+  title: '&b&l钻石矿石生成器'
+  slots: {}
+NETHER_QUARTZ_ORESC:
+  title: '&b&l下界石英矿石生成器'
+  slots: {}
+NETHER_GOLD_ORESC:
+  title: '&b&l下界黄金矿石生成器'
+  slots: {}
+ANCIENT_DEBRISSC:
+  title: '&b&l远古遗骸生成器'
+  slots: {}
+WJYT1:
+  title: '&b&l无尽锭一体机 - &4I'
+  slots: {}
+WJYT2:
+  title: '&b&l无尽锭一体机 - &4II'
+  slots: {}
+WJYT3:
+  title: '&b&l无尽锭一体机 - &4III'
+  slots: {}
+QHHJDYTH:
+  title: '&3&l强化合金锭一体机'
+  slots: {}
+YJKYT_1:
+  title: '&c&l岩浆块一体机 - &5I'
+  slots: {}
+YJKYT_2:
+  title: '&c&l岩浆块一体机 - &7II'
+  slots: {}
+NTYTH:
+  title: '&3&l泥土一体机'
+  slots: {}
+SYYTH:
+  title: '&7&l石英一体机'
+  slots: {}
+GUIYTH:
+  title: '&f&l硅一体机'
+  slots: {}
+BUKEKONG_YITI:
+  title: '&c&l不可控空一体机'
+  slots: {}
+
+
+END_LIZISHENG_CHENG:
+  title: '&5&l末地粒子产生器'
+  slots: 
+    0:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    2:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    3-5:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    8:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    6:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    9-17:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    20:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    21-23:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    24:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    26:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+
+
+
+
+RANLIAO_GONGFANG:
+  title: '&7&l染料工厂'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    26:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    27-35:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+
+AIR_XICHENQI:
+  title: '&b&l空气吸尘器'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18-26:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+YUAN_OLI_BAOFA:
+  title: '&b&l原油生产机'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    27-35:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+AIR_XICHENQI_PLUS:
+  title: '&b&l空气吸尘器 &c&lPlus'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    27-35:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+ZISHUIJING_CHANFANG:
+  title: '&5&l紫水晶工厂'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+AIR_XICHENQI_PLUS_PRIME:
+  title: '&b&l空气吸尘器 &c&lPlus &6- #0075ffP#4ba580r#4ba54fi#4b6aa5m#8d8dfde'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    27-35:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+
+NONE_YITI:
+  title: '&8&lNONE一体机'
+  slots: {}
+JICHU_BAOFAZUZHUANG:
+  title: '&4&l基础电路板爆发组装仪'
+  slots: {}
+
+ZHU_SHIJIE_CHAOXIANSC:
+  title: '&a&lThe Overworld&b&l矿物生成（超限）'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18-26:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+XIAJIE_CHAOXIANSC:
+  title: '&c&lThe Nether&b&l矿物生成（超限）'
+  slots: 
+    0-8:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18-26:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+KUANG_WU_TICHUN:
+  title: '&6&l矿物提纯机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+TLSXJ:
+  title: '&b&l土类塑性机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+JUN_LUO_WENSHI:
+  title: '&9&l菌落温室'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: RED_MUSHROOM
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+ZHUSHIJIE_WENSHI:
+  title: '&a&l主世界作物生长温室'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+XIAJIE_WENSHI:
+  title: '&4&l下界作物生长温室'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+YAN_MO_JI:
+  title: '&b&l研磨机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: ANVIL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+ARCAEA_END:
+  title: '&b&l结果兑换仪'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: LEVER
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+MODI_WENSHI:
+  title: '&5&l末地作物生长温室'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+MILKE_CHAN:
+  title: '&f&l牛奶蜂蜜生产机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+KONG_CHOUJIANG:
+  title: '&b&l空抽器'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+DIANRONG_SHENGCHAN:
+  title: '&5&l电容生产仪'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+KUANGSHI_CHULI:
+  title: '&e&l矿锭固化器'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SHOVEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+
+
+
+
+KAPIAN_XULIEJI:
+  title: '&6&l卡片序列机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    20:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: gray_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-29:
+      material: blue_stained_glass_pane
+      name: '&a'
+    30:
+      material: gray_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+QI_PAO_RONGHEJI:
+  title: '&6&l起泡锭&7&l融合机'
+  slots:
+    0-2:
+      material: blue_stained_glass_pane
+      name: '&a'
+    3-5:
+      material: gray_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&7融合中...'
+      progressbar: true
+      progressBarItem:
+        material: REDSTONE
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: blue_stained_glass_pane
+      name: '&a'
+    17:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18-20:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21-23:
+      material: gray_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27-29:
+      material: gray_stained_glass_pane
+      name: '&a'
+    30-32:
+      material: orange_stained_glass_pane
+      name: '&a'
+    33-35:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36-38:
+      material: gray_stained_glass_pane
+      name: '&a'
+    39:
+      material: orange_stained_glass_pane
+      name: '&a'
+    41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+
+
+
+
+SHENGWU_MONI_TUZAIQI: 
+  title: "&b&l模拟工程屠宰机"
+  slots:
+    0-2:
+      name: "&9"
+      material: CYAN_STAINED_GLASS_PANE
+    3: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    9: 
+      name: "&9"
+      material: CYAN_STAINED_GLASS_PANE
+    11: 
+      name: "&9"
+      material: CYAN_STAINED_GLASS_PANE
+    12:
+      name: "&9"
+      material: ORANGE_STAINED_GLASS_PANE
+    18-20: 
+      name: "&9"
+      material: CYAN_STAINED_GLASS_PANE
+    21: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    27-29: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    30: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    36: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    37:
+      material: BLACK_STAINED_GLASS_PANE
+      name: '&7正在生产中'
+      progressbar: true
+      progressBarItem:
+        material: NETHERITE_SWORD
+    38: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    39: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    45-47: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    48: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+
+
+
+
+
+
+ZHI_ZUN_ZI_YUAN_HECHENG: 
+  title: "&b&l至尊资源合成机"
+  slots:
+    0-1: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    2-6:
+      material: blue_stained_glass_pane
+      name: '&a'
+    7-8: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE 
+    9-10: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: blue_stained_glass_pane
+      name: '&a' 
+    15:
+      material: blue_stained_glass_pane
+      name: '&a' 
+    16-17: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    18-19: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    20-24:
+      material: blue_stained_glass_pane
+      name: '&a' 
+    25-26: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    27-28: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    29-30:
+      material: GRAY_STAINED_GLASS_PANE
+      name: '&a'
+    31:
+      material: BLACK_STAINED_GLASS_PANE
+      name: '&7正在合成中...'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    32-33: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE 
+    34-35: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE 
+    36-38: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    39: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    41: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    42-44: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-47: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    48: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    50: 
+      name: "&6"
+      material: ORANGE_STAINED_GLASS_PANE
+    51-53: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+HE_XIN_ZHIZUO_YI: 
+  title: "&c&l核心制作仪"
+  slots:
+    3: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    4-6: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    7: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    8: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    12: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    13:
+      material: BLACK_STAINED_GLASS_PANE
+      name: '&7正在制作核心....'
+      progressbar: true
+      progressBarItem:
+        material: SLIME_BALL
+    14: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    15: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    17: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    21: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    22-24: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    25: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    26: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+
+
+WU_XIN_JIAGONG: 
+  title: "&5&l五行加工厂"
+  slots:
+    0-8: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    9: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    17: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    18-26: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    27-30: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      material: BLACK_STAINED_GLASS_PANE
+      name: '&7五行制作中....'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    32-35: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    36-39: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    41-44: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-47: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    48: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    50: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    51-53: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+
+ARCAEA_MONI: 
+  title: "&b&lArcaea模拟器"
+  slots:
+    0: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    2: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    3:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    4: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+
+
+
+ARCAEA_QUMUKU: 
+  title: "&b&l记忆源点曲目库"
+  slots:
+    1: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    9: 
+      name: "&a"
+      material: blue_stained_glass_pane
+    10:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    2: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    11: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    20: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    18: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    19: 
+      name: "&a"
+      material: ORANGE_STAINED_GLASS_PANE
+    27: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    36: 
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+
+MC_CHANGPIAN_DUANZAO:
+  title: '&9&lMinecraft唱片锻造机'
+  slots:
+    0-2:
+      material: blue_stained_glass_pane
+      name: '&a'
+    3-5:
+      material: gray_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&7刻录中...'
+      progressbar: true
+      progressBarItem:
+        material: MUSIC_DISC_STRAD
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: blue_stained_glass_pane
+      name: '&a'
+    17:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18-20:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21-23:
+      material: gray_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    28:
+      material: orange_stained_glass_pane
+      name: '&a'
+    29:
+      material: gray_stained_glass_pane
+      name: '&a'
+    30-32:
+      material: orange_stained_glass_pane
+      name: '&a'
+    33:
+      material: gray_stained_glass_pane
+      name: '&a'
+    34:
+      material: orange_stained_glass_pane
+      name: '&a'
+    35:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    37-38:
+      material: orange_stained_glass_pane
+      name: '&a'
+    39:
+      material: orange_stained_glass_pane
+      name: '&a'
+    41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-43:
+      material: orange_stained_glass_pane
+      name: '&a'
+    44:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45-47:
+      material: gray_stained_glass_pane
+      name: '&a'
+    48-50:
+      material: orange_stained_glass_pane
+      name: '&a'
+    51-53:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+BUKEKONG_ZHUANGPEI:
+  title: '&8&l不可控空装配机'
+  slots:
+    0-5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    14:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18-23:
+      material: blue_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+
+
+
+BUG_WUZHI_CHONGZU:
+  title: '&b&lBUG物质结构重组仪'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: gray_stained_glass_pane
+      name: '&a'
+    16:
+      material: orange_stained_glass_pane
+      name: '&a'
+    14:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+
+
+
+
+XD_JRJQ: 
+  title: "&b&l核心兑换仪"
+  slots:
+    0-2:
+      material: gray_stained_glass_pane
+      name: '&a'
+    3:
+      material: blue_stained_glass_pane
+      name: '&a'
+    5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    14-17:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36:
+      material: orange_stained_glass_pane
+      name: '&a'
+    45:
+      material: orange_stained_glass_pane
+      name: '&a'
+    35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    44:
+      material: orange_stained_glass_pane
+      name: '&a'
+    53:
+      material: orange_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+YONGHENG_KAICAI: 
+  title: "&7&l⚒ &9&l永恒 &f&l· &c&l矿机 &7&l⚒"
+  slots:
+    0-2:
+      material: blue_stained_glass_pane
+      name: '&a'
+    3-5:
+      material: gray_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: orange_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    14:
+      material: gray_stained_glass_pane
+      name: '&a'
+    15:
+      material: orange_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18-20:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21-23:
+      material: gray_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+
+
+
+LIANGZI_CHANCHU:
+  title: '&7&l⚝ &b&l量子构造仪 &7&l⚝'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+GUANG_AN_KUANGJI:
+  title: '&7&l⚒ &b&l光&暗 &f&l· &6&l矿机 &7&l⚒'
+  slots:
+    0-2:
+      material: gray_stained_glass_pane
+      name: '&a'
+    3:
+      material: blue_stained_glass_pane
+      name: '&a'
+    5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      material: blue_stained_glass_pane
+      name: '&a上面放入许可证（不会消耗许可证，请放心使用）'
+    14-17:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18-21:
+      material: gray_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    23-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36:
+      material: orange_stained_glass_pane
+      name: '&a'
+    44:
+      material: orange_stained_glass_pane
+      name: '&a'
+    45:
+      material: orange_stained_glass_pane
+      name: '&a'
+    53:
+      material: orange_stained_glass_pane
+      name: '&a'
+
+
+HUOWANG_ZHUANGPEIQI:
+  title: '{#19b9b9}货{#44afaf}网{#6fa4a4}装{#9a9a9a}配{#919191}器'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HUN_NINGTU_JIAGONG:
+  title: '&6&l混凝土加工厂'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    11:
+      material: blue_stained_glass_pane
+      name: '&a'
+    12:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    13:
+      material: orange_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+YANMOJI:
+  title: '&b&l研磨机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a输入'
+    12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    14:
+      material: orange_stained_glass_pane
+      name: '&a输出'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+JIQIREN_ZHIZAO:
+  title: '&3&l机器人装配机'
+  slots:
+    0-5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    14:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18-23:
+      material: blue_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+
+
+
+COMMAND_BLOCK_GOUZAO:
+  title: '&f&l☠ &b&l命令&7&l方块&d&l构造机 &f&l☠'
+  slots:
+    0:
+      material: blue_stained_glass_pane
+      name: '&a'
+    2:
+      material: blue_stained_glass_pane
+      name: '&a'
+    3:
+      material: blue_stained_glass_pane
+      name: '&a'
+    5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    6:
+      material: blue_stained_glass_pane
+      name: '&a'
+    8:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9-17:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    20:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    23:
+      material: blue_stained_glass_pane
+      name: '&a'
+    24:
+      material: blue_stained_glass_pane
+      name: '&a'
+    26:
+      material: blue_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: gray_stained_glass_pane
+      name: '&a'
+    31:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    32-35:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36-38:
+      material: gray_stained_glass_pane
+      name: '&a'
+    39:
+      material: orange_stained_glass_pane
+      name: '&a'
+    41:
+      material: orange_stained_glass_pane
+      name: '&a'
+    42-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:
+      material: blue_stained_glass_pane
+      name: '&a'
+    47:
+      material: blue_stained_glass_pane
+      name: '&a'
+    48:
+      material: blue_stained_glass_pane
+      name: '&a'
+    50:
+      material: blue_stained_glass_pane
+      name: '&a'
+    51:
+      material: blue_stained_glass_pane
+      name: '&a'
+    53:
+      material: blue_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+
+LANBO_DUNSHUIJING_ZHIZAO:
+  title: '&d&l兰伯顿水晶制造机'
+  slots:
+    0-5:
+      material: blue_stained_glass_pane
+      name: '&a'
+    9:
+      material: blue_stained_glass_pane
+      name: '&a'
+    14:
+      material: blue_stained_glass_pane
+      name: '&a'
+    18-23:
+      material: blue_stained_glass_pane
+      name: '&a'
+    17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    24-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    6-8:
+      material: orange_stained_glass_pane
+      name: '&a'
+    15:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+
+
+KUANGWU_KAICAI_QI:
+  title: '&f&l⚒&b&l矿物&c&l开采机&f&l⚒'
+  slots:
+    0-2:
+      material: gray_stained_glass_pane
+      name: '&a'
+    3:
+      material: blue_stained_glass_pane
+      name: '&a'   
+    5:
+      material: blue_stained_glass_pane
+      name: '&a'   
+    6-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    14-17:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27:
+      material: orange_stained_glass_pane
+      name: '&a'
+    35:
+      material: orange_stained_glass_pane
+      name: '&a'  
+    36:
+      material: black_stained_glass_pane
+      name: '&a输出产物→'
+    44:
+      material: orange_stained_glass_pane
+      name: '&a'        
+    45:
+      material: orange_stained_glass_pane
+      name: '&a'    
+    53:
+      material: orange_stained_glass_pane
+      name: '&a'         
+
+
+
+PIGLIN_JIAOYI_JI:
+  title: '&f&l$ &c&l猪灵&b&l交易机 &f&l$'
+  slots:
+    0-2:
+      material: gray_stained_glass_pane
+      name: '&a'
+    3:
+      material: blue_stained_glass_pane
+      name: '&a'   
+    5:
+      material: blue_stained_glass_pane
+      name: '&a'   
+    6-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: gray_stained_glass_pane
+      name: '&a'
+    13:
+      name: "&a"
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: DIAMOND_PICKAXE
+    14-17:
+      material: gray_stained_glass_pane
+      name: '&a'
+    18-26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27:
+      material: orange_stained_glass_pane
+      name: '&a'
+    35:
+      material: orange_stained_glass_pane
+      name: '&a'  
+    36:
+      material: black_stained_glass_pane
+      name: '&a输出产物→'
+    44:
+      material: orange_stained_glass_pane
+      name: '&a'        
+    45:
+      material: orange_stained_glass_pane
+      name: '&a'    
+    53:
+      material: orange_stained_glass_pane
+      name: '&a' 
+
+
+BUWENDING_DIXIANGJI:
+  title: '&c&l不稳定锭&d&l定向机'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'
+
+
+
+
+
+
+RUBBER_GONG_CHANG:
+  title: '&b&l树脂&c&l工厂'
+  slots:
+    0-8:
+      material: gray_stained_glass_pane
+      name: '&a'
+    9-12:
+      material: blue_stained_glass_pane
+      name: '&a'
+    13:
+      material: gray_stained_glass_pane
+      name: '&a'
+    14-17:
+      material: orange_stained_glass_pane
+      name: '&a'
+    18:
+      material: blue_stained_glass_pane
+      name: '&a'
+    21:
+      material: blue_stained_glass_pane
+      name: '&a'
+    22:
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: true
+      progressBarItem:
+        material: FLINT_AND_STEEL
+    23:
+      material: orange_stained_glass_pane
+      name: '&a'
+    26:
+      material: orange_stained_glass_pane
+      name: '&a'
+    27-30:
+      material: blue_stained_glass_pane
+      name: '&a'
+    31:
+      material: gray_stained_glass_pane
+      name: '&a'
+    32-35:
+      material: orange_stained_glass_pane
+      name: '&a'
+    36-44:
+      material: gray_stained_glass_pane
+      name: '&a'                      
+
+
+
+
+
+ 
+
+
+ZHONGMO_GONGZUOTAI:
+  title: '&5&l终末&c&l工作站'
+  slots:
+    '6':
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      amount: 1
+    '7':
+      material_type: mc
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+      amount: 1
+    '8':
+      material_type: mc
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+      amount: 1
+    '15':
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      amount: 1
+    '16':
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+      amount: 1
+    '17':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+    '24':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+    '26':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+    '33':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+    '34':
+      name: '&6&l单击合成'
+      amount: 1
+      material_type: mc
+      material: CRAFTING_TABLE
+      progressbar:
+        name: '&6&l单击合成'
+        amount: 1
+        material_type: mc
+        material: CRAFTING_TABLE
+    '35':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+    '42':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+    '43':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+    '44':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: MAGENTA_STAINED_GLASS_PANE
+    '51':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+    '52':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '53':
+      amount: 1
+      material_type: mc
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+
+
+
+

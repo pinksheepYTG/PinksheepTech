@@ -1,0 +1,10 @@
+ZHONGMO_GONGZUOTAI_TYPE:
+  material: "CHISELED_STONE_BRICKS"
+  name: "&5&l终末&c&l工作站&f&l配方类型"
+  lore:
+  - '&c&l本附属最终合成台'
+LXJ_TYPE:
+  material: "CRAFTING_TABLE"
+  name: "&f&l☢ #f33232离#b0bf51心#a7e9d5机 配方 &f&l☢"
+  lore:
+  - '#f52323分#e74531离#d9663e乃#cc884c重#bea95a组#b0cb67之#a2ec75道'
