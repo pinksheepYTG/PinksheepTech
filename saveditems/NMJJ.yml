@@ -1,0 +1,21 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"color":"gray","text":"☢
+      "},{"bold":true,"color":"dark_red","text":"溟灭"},{"bold":true,"color":"blue","text":"寂静"},{"bold":true,"color":"gray","text":"之"},{"bold":true,"underlined":true,"color":"red","text":"斧"},{"color":"gray","text":"
+      ☢"}],"text":""}'
+    lore:
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gray","text":"拥有"},{"bold":true,"color":"blue","text":"超越"},{"bold":true,"color":"red","text":"一切"},{"bold":true,"color":"gray","text":"的"},{"bold":true,"italic":true,"color":"dark_red","text":"力量"}],"text":""}'
+    enchants:
+      DAMAGE_ARTHROPODS: 10
+      DIG_SPEED: 50
+      FIRE_ASPECT: 10
+      LOOT_BONUS_BLOCKS: 30
+      DAMAGE_ALL: 30
+      DAMAGE_UNDEAD: 10
+    Unbreakable: true

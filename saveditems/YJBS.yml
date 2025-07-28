@@ -1,0 +1,22 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: IRON_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"text":"♜ "},{"bold":true,"color":"dark_gray","text":"佣兵
+      "},{"bold":true,"text":"· "},{"bold":true,"color":"red","text":"匕首 "},{"bold":true,"text":"♞"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"underlined":true,"text":"曾经"},{"bold":true,"text":"有一群"},{"bold":true,"italic":true,"color":"dark_red","text":"佣兵"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"丢下了"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"匕首"},{"text":"，"},{"bold":true,"color":"gray","text":"并且"},{"bold":true,"italic":true,"underlined":true,"strikethrough":true,"color":"red","text":"遗忘至今！"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gold","text":"华丽装备！"}],"text":""}'
+    enchants:
+      DAMAGE_ALL: 6
+      SWEEPING_EDGE: 2
+      DURABILITY: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_UNBREAKABLE
+    Unbreakable: true

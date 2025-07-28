@@ -1,0 +1,69 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"❀
+      "},{"bold":true,"color":"blue","text":"杂鱼"},{"bold":true,"color":"dark_gray","text":"
+      ❀  "},{"bold":true,"italic":true,"color":"#FFE2FF","text":"探究者"},{"bold":true,"color":"gray","text":"护腿"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"=============="}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"    "},{"bold":true,"text":"
+      "},{"bold":true,"color":"aqua","text":"挖掘加速+25%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"     "},{"bold":true,"color":"yellow","text":"生命回复+10%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"    "},{"color":"dark_purple","text":"
+      "},{"bold":true,"color":"dark_purple","text":"暴食者"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"    "},{"bold":true,"text":"
+      "},{"bold":true,"color":"dark_green","text":"辐射免疫"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"    "},{"italic":true,"underlined":true,"color":"red","text":"
+      "},{"bold":true,"italic":true,"underlined":true,"color":"red","text":" 死亡不掉落"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"==============="}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"obfuscated":true,"color":"dark_gray","text":"d"},{"bold":true,"color":"yellow","text":"看起来"},{"bold":true,"italic":true,"underlined":true,"color":"red","text":"似乎"},{"bold":true,"italic":true,"color":"yellow","text":"不"},{"bold":true,"italic":true,"underlined":true,"color":"#9297FF","text":"是这个"},{"bold":true,"italic":true,"underlined":true,"color":"dark_green","text":"世界"},{"bold":true,"italic":true,"color":"yellow","text":"的装备  "},{"bold":true,"italic":true,"underlined":true,"color":"light_purple","text":"吖"},{"bold":true,"italic":true,"underlined":true,"text":"~"},{"bold":true,"obfuscated":true,"text":"
+      f"}],"text":""}'
+    enchants:
+      PROTECTION_FIRE: 10
+      PROTECTION_ENVIRONMENTAL: 30
+      SWIFT_SNEAK: 10
+      THORNS: 10
+    attribute-modifiers:
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 8.0
+        name: ''
+        slot: LEGS
+        uuid: f9c3909e-11c6-4234-81b8-2da7e829a083
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: ''
+        slot: LEGS
+        uuid: 4cc39252-1d76-44e0-89db-6963b14be7e4
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.1
+        name: ''
+        slot: LEGS
+        uuid: c4dcea71-4544-405a-8399-0d2287a0c84d
+        operation: 0
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: LEGS
+        uuid: 1e1c7e16-1386-45f3-9ff1-9694e2cc9321
+        operation: 0
+      GENERIC_MAX_HEALTH:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: LEGS
+        uuid: a37d23be-85bb-4deb-82ad-b07677a97fb4
+        operation: 0
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: INFINITY_LEGGINGS

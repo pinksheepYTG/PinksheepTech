@@ -1,0 +1,66 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"❀"},{"bold":true,"text":"
+      "},{"bold":true,"color":"blue","text":"杂鱼"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"❀"},{"text":"  "},{"bold":true,"color":"dark_aqua","text":"征讨者"},{"bold":true,"color":"gray","text":"头盔"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"=================="}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"  "},{"bold":true,"color":"aqua","text":"
+      夜视+10"},{"color":"aqua","text":"%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"  "},{"bold":true,"color":"dark_aqua","text":"
+      潮涌能量+1"},{"color":"dark_aqua","text":"0%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"  "},{"bold":true,"color":"light_purple","text":"
+      鞘翅动能免疫"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"  "},{"bold":true,"color":"red","text":"
+      死亡不掉落"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"=================="}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"obfuscated":true,"text":"d"},{"bold":true,"color":"gold","text":"由"},{"bold":true,"underlined":true,"color":"green","text":"Minecraft"},{"bold":true,"color":"gold","text":"最杰出"},{"bold":true,"color":"dark_gray","text":"，"},{"bold":true,"color":"gold","text":"最"},{"bold":true,"underlined":true,"color":"red","text":"权威"},{"bold":true,"color":"gold","text":"的"},{"bold":true,"italic":true,"underlined":true,"color":"gray","text":"铁匠铺"},{"bold":true,"color":"gold","text":"制作"},{"bold":true,"obfuscated":true,"text":"d"}],"text":""}'
+    enchants:
+      WATER_WORKER: 10
+      PROTECTION_ENVIRONMENTAL: 30
+      OXYGEN: 10
+      THORNS: 10
+    attribute-modifiers:
+      GENERIC_MAX_HEALTH:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: HEAD
+        uuid: e83d3f54-691a-483f-84c9-2ee90379da2d
+        operation: 0
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: HEAD
+        uuid: 4187c63b-bd7a-40e2-a8f8-e35eccefac24
+        operation: 0
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 8.0
+        name: ''
+        slot: HEAD
+        uuid: daa0b2e6-af7e-4264-8baa-6c4543a41cbd
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: ''
+        slot: HEAD
+        uuid: 313f3d57-5ac3-4866-9b60-dd6c43df6601
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.1
+        name: ''
+        slot: HEAD
+        uuid: 921136c7-396f-438d-9d85-edd6ea6eca3d
+        operation: 0
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: INFINITY_CROWN

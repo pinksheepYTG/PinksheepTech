@@ -1,0 +1,63 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"❀
+      "},{"bold":true,"color":"blue","text":"杂鱼 "},{"bold":true,"color":"dark_gray","text":"❀  "},{"bold":true,"italic":true,"color":"red","text":"圣所"},{"bold":true,"italic":true,"color":"dark_purple","text":"守望者"},{"bold":true,"color":"gray","text":"靴子"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"=============="}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"     "},{"bold":true,"color":"blue","text":"移动速度+15%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"     "},{"bold":true,"color":"aqua","text":"游泳加速+10%"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"     "},{"bold":true,"underlined":true,"color":"red","text":"
+      死亡不掉落"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"strikethrough":true,"color":"dark_gray","text":"=============="}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"obfuscated":true,"color":"dark_gray","text":"d"},{"bold":true,"italic":true,"underlined":true,"color":"red","text":"T0"},{"bold":true,"color":"gold","text":"级别的靴子，"},{"bold":true,"strikethrough":true,"color":"green","text":"别摸我的切尔西"},{"bold":true,"obfuscated":true,"color":"dark_gray","text":"d"}],"text":""}'
+    enchants:
+      DEPTH_STRIDER: 10
+      PROTECTION_FALL: 10
+      PROTECTION_ENVIRONMENTAL: 30
+      SOUL_SPEED: 10
+      THORNS: 10
+    attribute-modifiers:
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 8.0
+        name: ''
+        slot: FEET
+        uuid: 2e540937-af1a-48f8-8366-8bacd58a04bd
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 5.0
+        name: ''
+        slot: FEET
+        uuid: 9c484c03-c269-46fb-9cba-add3acfc4e31
+        operation: 0
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: FEET
+        uuid: 028eccc2-6570-46d3-9f69-ae0159d1f630
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.1
+        name: ''
+        slot: FEET
+        uuid: 0351247c-e9d5-4189-93e8-a8263b2d3e99
+        operation: 0
+      GENERIC_MAX_HEALTH:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 2.0
+        name: ''
+        slot: FEET
+        uuid: d9a005a3-7ba9-402b-a829-dd79fcc9c90d
+        operation: 0
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: INFINITY_BOOTS
