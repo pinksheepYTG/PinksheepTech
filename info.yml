@@ -5,7 +5,7 @@ pluginDepends:
 - TranscEndence
 - InfinityExpansion
 scriptListener: ''
-version: "Release-1.0.0.0"
+version: "Release-1.0.0.1"
 description: "由PinksheepYTG独自研发的一款功能型附属，目前处于更新中"
 authors:
 - PinksheepYTG
@@ -13,14 +13,15 @@ repo: ''
 loadStartTexts:
 - "================================"
 - "PinksheepTech"
-- "版本号：Release 1.0.0.0"
+- "版本号：Release 1.0.0.1"
 - "开始加载...."
 - "正在为您拼命加载中..."
+- "正在加载属于你的SF世界！"
 - "================================"
 enabledTexts:
 - "================================"
 - "PinksheepTech"
-- "版本号：Release 1.0.0.0"
+- "版本号：Release 1.0.0.1"
 - "加载成功"
 - "欢迎使用本附属"
 - "如有问题请联系作者，作者QQ：1121289406"
