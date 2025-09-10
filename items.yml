@@ -5,15 +5,15 @@ GGXX:
     name: '&b公告内容'
     lore:
     - '&7由老版sc升级为最新rsc，正式恢复更新，并且去除bate版本号!'
-    - '&c即日起粉羊科技迎来了正式版的发布，离不开各位的踊跃测试！'
-    - '&7本次更新为来自1.20堆叠功能修复更新 最新支持MC最新版本 （请使用最新版RSC已提供更加全面的支持）'
+    - '&c这里碎碎念一下，有关逻辑堆叠目前还是不要用了，在mtl还没进行项目复更，堆叠还是先不要用了。。！'
+    - '&7修复一些问题 （请使用最新版RSC已提供更加全面的支持）'
     - '&7有什么好的想法可以联系作者，作者&fQQ：1121289406'
     - '&7------未经许可·禁止修改内容-----'
     - '&7|  &6本附属是pinksheepYTG独自研发! &7|'
     - '&7--------------------------'
     - '&5此附属依旧处于更新。。!'
-    - '&5目前版本：&f&lRelease 1.0.0.1 (正式版)'
-    - '&7目前附属开发进度：&f27.8%'
+    - '&5目前版本：&f&lRelease 1.0.0.2 (正式版)'
+    - '&7目前附属开发进度：&f28%'
     material_type: skull_base64
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWEwZGJkYWM0MzIyYTg5NjkwNGM5MmI1NDgyMzc3NjFmODU2MjAyYTBhMjY4NTliNzA4ZDQ4ZGYzNzJjMWJjNyJ9fX0=
     amount: 1
@@ -46,8 +46,8 @@ LI_SHI_BAN_BEN:
   item:
     name: '&b历史版本'
     lore:
-    - '&7历史版本：Release 1.0.0!'
-    - '&5版本详情：正式公测，基础修正完成  ！ '
+    - '&7历史版本：Release 1.0.0.1!'
+    - '&5版本详情：修复星辰卡片机模式导致的物资不加载，现在已经回退为nocesone词条！  ！ '
     material_type: skull_base64
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQwZTAxODIxNDQ3YWYyNWNmOTBkMmQwYTRkODFiMWY4ZDNkOTg0ZWUwNTc4ZWE4Y2QwOTk5OTdjNDQ0YTBjMiJ9fX0=
     amount: 1

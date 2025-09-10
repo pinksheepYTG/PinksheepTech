@@ -2766,6 +2766,7 @@ ZHUSHIJIE_WENSHI:
   recipes:
     '1':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2778,6 +2779,7 @@ ZHUSHIJIE_WENSHI:
           amount: 8
     '2':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2790,6 +2792,7 @@ ZHUSHIJIE_WENSHI:
           amount: 8
     '3':
       seconds: 8
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2806,6 +2809,7 @@ ZHUSHIJIE_WENSHI:
           amount: 16
     '4':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2818,6 +2822,7 @@ ZHUSHIJIE_WENSHI:
           amount: 12
     '5':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2830,6 +2835,7 @@ ZHUSHIJIE_WENSHI:
           amount: 12
     '6':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2842,6 +2848,7 @@ ZHUSHIJIE_WENSHI:
           amount: 32
     '7':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2852,12 +2859,9 @@ ZHUSHIJIE_WENSHI:
           material_type: mc
           material: PUMPKIN
           amount: 8
-        2:
-          material_type: mc
-          material: PUMPKIN_SEEDS
-          amount: 16
     '8':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2868,12 +2872,9 @@ ZHUSHIJIE_WENSHI:
           material_type: mc
           material: BEETROOT
           amount: 8
-        2:
-          material_type: mc
-          material: BEETROOT_SEEDS
-          amount: 16
     '9':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2886,6 +2887,7 @@ ZHUSHIJIE_WENSHI:
           amount: 16
     '10':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2898,6 +2900,7 @@ ZHUSHIJIE_WENSHI:
           amount: 8
     '11':
       seconds: 4
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -2977,6 +2980,7 @@ XIAJIE_WENSHI:
   recipes:
     '1':
       seconds: 6
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -3053,6 +3057,7 @@ MODI_WENSHI:
   recipes:
     '1':
       seconds: 6
+      noConsume: true
       input:
         1:
           material_type: mc
@@ -3215,7 +3220,8 @@ KAPIAN_XULIEJI:
   energyPerCraft: 5000
   recipes:
     '1':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3225,13 +3231,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: COPPER_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: TONG_KAPIAN
-          amount: 1
+          amount: 32
     '2':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3241,13 +3244,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: TIN_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: XI_KAPIAN
-          amount: 1
+          amount: 32
     '3':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3257,13 +3257,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SILVER_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YING_KAPIAN
-          amount: 1
+          amount: 32
     '4':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3273,13 +3270,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: LEAD_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: QIAN_KAPIAN
-          amount: 1
+          amount: 32
     '5':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3289,13 +3283,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ALUMINUM_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: LU_KAPIAN
-          amount: 1
+          amount: 32
     '6':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3305,13 +3296,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ZINC_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: XING_KAPIAN
-          amount: 1
+          amount: 32
     '7':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3321,13 +3309,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: MAGNESIUM_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: MEI_KAPIAN
-          amount: 1
+          amount: 32
     '8':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3337,13 +3322,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: BILLON_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YINGTONG_KAPIAN
-          amount: 1
+          amount: 32
     '9':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3353,13 +3335,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: STEEL_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GANG_KAPIAN
-          amount: 1
+          amount: 32
     '10':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3369,13 +3348,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SOLDER_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: HANXI_KAPIAN
-          amount: 1
+          amount: 32
     '11':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3385,29 +3361,23 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: BRONZE_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: QINGTONG_KAPIAN
-          amount: 1
+          amount: 32
     '12':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
           material: HUANGTONG_KAPIAN
-          amount: 1
+          amount: 32
       output:
         1:
           material_type: slimefun
           material: BRASS_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: HUANGTONG_KAPIAN
-          amount: 1
+          amount: 16
     '13':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3417,13 +3387,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: DAMASCUS_STEEL_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: DAMASHI_KAPIAN
-          amount: 1
+          amount: 32
     '14':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3433,13 +3400,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: FERROSILICON
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GUTIE_KAPIAN
-          amount: 1
+          amount: 32
     '15':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3449,13 +3413,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: COBALT_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GU_KAPIAN
-          amount: 1
+          amount: 32
     '16':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3465,13 +3426,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: NICKEL_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: XIU_KAPIAN
-          amount: 1
+          amount: 32
     '17':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3481,13 +3439,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ALUMINUM_BRONZE_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: LUQINGTONG_KAPIAN
-          amount: 1
+          amount: 32
     '18':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3497,13 +3452,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ALUMINUM_BRASS_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: LUHUANGTONG_KAPIAN
-          amount: 1
+          amount: 32
     '19':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3513,13 +3465,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: DURALUMIN_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YINGLU_KAPIAN
-          amount: 1
+          amount: 32
     '20':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3529,13 +3478,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: CORINTHIAN_BRONZE_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: KELINSI_KAPIAN
-          amount: 1
+          amount: 32
     '21':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3545,13 +3491,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: GOLD_12K
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIN12K_KAPIAN
-          amount: 1
+          amount: 32
     '22':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3561,13 +3504,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: MAGNET
-          amount: 24
-        2:
-          material_type: slimefun
-          material: CITIE_KAPIAN
-          amount: 1
+          amount: 32
     '23':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3577,13 +3517,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: MAGSTEEL
-          amount: 24
-        2:
-          material_type: slimefun
-          material: CIGANG_KAPIAN
-          amount: 1
+          amount: 32
     '24':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3593,13 +3530,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SOLAR_PANEL
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GUANGFU_DIANCHI_KAPIAN
-          amount: 1
+          amount: 32
     '25':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3609,13 +3543,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: BASIC_CIRCUIT_BOARD
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JICHUDIANLU_KAPIAN
-          amount: 1
+          amount: 32
     '26':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3625,13 +3556,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ADVANCED_CIRCUIT_BOARD
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GAOJIDIANLU_KAPIAN
-          amount: 1
+          amount: 32
     '27':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3641,13 +3569,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: GILDED_IRON
-          amount: 24
-        2:
-          material_type: slimefun
-          material: DUJINTIE_KAPIAN
-          amount: 1
+          amount: 32
     '28':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3657,13 +3582,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: GOLD_4K
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIN4K_KAPIAN
-          amount: 1
+          amount: 32
     '29':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3673,13 +3595,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: GOLD_24K
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIN24K_KAPIAN
-          amount: 1
+          amount: 32
     '30':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3689,13 +3608,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: GOLD_22K
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIN22K_KAPIAN
-          amount: 1
+          amount: 32
     '31':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3705,13 +3621,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: URANIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YOU_KAPIAN
-          amount: 1
+          amount: 32
     '32':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3721,13 +3634,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: BUCKET_OF_OIL
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YUAN_YOU_TONG_KAPIAN
-          amount: 1
+          amount: 32
     '33':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3737,13 +3647,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ELECTRO_MAGNET
-          amount: 24
-        2:
-          material_type: slimefun
-          material: DIAN_CI_TIE_KAPIAN
-          amount: 1
+          amount: 32
     '34':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3753,13 +3660,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: POWER_CRYSTAL
-          amount: 24
-        2:
-          material_type: slimefun
-          material: NENG_LIANG_SHUI_JING_KAPIAN
-          amount: 1
+          amount: 32
     '35':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3769,13 +3673,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ELECTRIC_MOTOR
-          amount: 24
-        2:
-          material_type: slimefun
-          material: DIANDONG_MADA_KAPIAN
-          amount: 1
+          amount: 32
     '36':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3785,13 +3686,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: HEATING_COIL
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIARE_XIANQUAN_KAPIAN
-          amount: 1
+          amount: 32
     '37':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3801,13 +3699,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: REINFORCED_ALLOY_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: QIANGHUA_HEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '38':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3817,13 +3712,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: HARDENED_METAL_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YINHUA_JINSHU_KAPIAN
-          amount: 1
+          amount: 32
     '39':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3833,13 +3725,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: ANDROID_MEMORY_CORE
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIQIREN_NEICUNHEXIN_KAPIAN
-          amount: 1
+          amount: 32
     '40':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3849,13 +3738,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: TITANIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: TAI_KAPIAN
-          amount: 1
+          amount: 32
     '41':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3865,13 +3751,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: UNSTABLEINGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: BUWENDINGDEDING_KAPIAN
-          amount: 1
+          amount: 32
     '42':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3881,13 +3764,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SYNTHETIC_SAPPHIRE
-          amount: 24
-        2:
-          material_type: slimefun
-          material: RENZAO_LANBAOSHI_KAPIAN
-          amount: 1
+          amount: 32
     '43':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3897,13 +3777,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: MACHINE_CIRCUIT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JIXIE_DIANLU_KAPIAN
-          amount: 1
+          amount: 32
     '44':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3913,13 +3790,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: BLISTERING_INGOT_3
-          amount: 24
-        2:
-          material_type: slimefun
-          material: QIPAO_KAPIAN
-          amount: 1
+          amount: 32
     '45':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3929,13 +3803,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: REDSTONE_ALLOY
-          amount: 24
-        2:
-          material_type: slimefun
-          material: HONGSHI_HEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '46':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3945,13 +3816,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: CARBONADO
-          amount: 24
-        2:
-          material_type: slimefun
-          material: HEIJINGANGSHI_KAPIAN
-          amount: 1
+          amount: 32
     '47':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3961,13 +3829,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SYNTHETIC_DIAMOND
-          amount: 24
-        2:
-          material_type: slimefun
-          material: RENZAO_ZUANSHI_KAPIAN
-          amount: 1
+          amount: 32
     '48':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3977,13 +3842,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SYNTHETIC_EMERALD
-          amount: 24
-        2:
-          material_type: slimefun
-          material: RENZAO_LUBAOSHI_KAPIAN
-          amount: 1
+          amount: 32
     '49':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -3993,13 +3855,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: MAGSTEEL_PLATE
-          amount: 24
-        2:
-          material_type: slimefun
-          material: CIGANGBAN_KAPIAN
-          amount: 1
+          amount: 32
     '50':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4009,13 +3868,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: DEMONIC_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: EMODING_KAPIAN
-          amount: 1
+          amount: 32
     '51':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4025,13 +3881,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: AQUATIC_NETHERITE_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: SHUSHENG_XIAJIEHEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '52':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4041,13 +3894,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: DAMIENIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: DAMIENDING_KAPIAN
-          amount: 1
+          amount: 32
     '53':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4057,13 +3907,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SWEET_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: TIANMIDING_KAPIAN
-          amount: 1
+          amount: 32
     '54':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4073,13 +3920,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SWEETENED_SWEET_INGOT
-          amount: 24
-        2:
-          material_type: slimefun
-          material: TIANMIDING_PLUSS_KAPIAN
-          amount: 1
+          amount: 32
     '55':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4089,13 +3933,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_ADAMANTIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: JINGJINHEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '56':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4105,13 +3946,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_TITANIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: THJ_KAPIAN
-          amount: 1
+          amount: 32
     '57':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4121,13 +3959,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_ZIRCONIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GAO_HEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '58':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4137,13 +3972,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_IRIDIUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: YUHEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '59':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4153,13 +3985,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_AURUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: GUJINHEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '60':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4169,13 +3998,10 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_MANGANESE
-          amount: 24
-        2:
-          material_type: slimefun
-          material: MENGHEJIN_KAPIAN
-          amount: 1
+          amount: 32
     '61':
-      seconds: 1
+      seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4185,11 +4011,7 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: SUPREME_ALLOY_PLATINUM
-          amount: 24
-        2:
-          material_type: slimefun
-          material: BOJINHEJIN_KAPIAN
-          amount: 1
+          amount: 32
   input: [19]
   output: [24, 25]
 
@@ -4832,7 +4654,8 @@ SHENGWU_MONI_TUZAIQI:
   energyPerCraft: 6000
   recipes:
     '1':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4851,12 +4674,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: CARBON
           amount: 64
-        4:
-          material_type: slimefun
-          material: DIAOLING_TUZAIXINPIAN
-          amount: 1
     '2':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4883,12 +4703,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: _FINALTECH_SHINE
           amount: 2
-        6:
-          material_type: slimefun
-          material: HUMAN_TUZAIXINPIAN
-          amount: 1
     '3':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4915,12 +4732,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: END_ESSENCE
           amount: 8
-        6:
-          material_type: slimefun
-          material: ENDLONG_TUZAIXINPIAN
-          amount: 1
     '4':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4955,12 +4769,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: BLOOD
           amount: 16
-        8:
-          material_type: slimefun
-          material: DIAOLINGKULOU_TUZAIXINPIAN
-          amount: 1
     '5':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -4979,12 +4790,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: PARROT_FEATHER
           amount: 4
-        4:
-          material_type: slimefun
-          material: YINGWU_TUZAIXINPIAN
-          amount: 1
     '6':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -5007,12 +4815,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: CURSED_RABBIT_PAW
           amount: 4
-        5:
-          material_type: slimefun
-          material: TUZI_TUZAIXINPIAN
-          amount: 1
     '7':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -5027,12 +4832,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: DYNATECH_GHOSTLY_ESSENCE
           amount: 16
-        3:
-          material_type: slimefun
-          material: NAOGUI_TUZAIXINPIAN
-          amount: 1
     '8':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -5059,12 +4861,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: mc
           material: SALMON
           amount: 8
-        6:
-          material_type: slimefun
-          material: YULEI_TUZAIXINPIAN
-          amount: 1
     '9':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -5083,12 +4882,9 @@ SHENGWU_MONI_TUZAIQI:
           material_type: mc
           material: BLAZE_ROD
           amount: 32
-        4:
-          material_type: slimefun
-          material: RONGYAN_TUZAIXINPIAN
-          amount: 1
     '10':
-      seconds: 4
+      seconds: 2
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -5103,10 +4899,6 @@ SHENGWU_MONI_TUZAIQI:
           material_type: mc
           material: LEATHER
           amount: 8
-        3:
-          material_type: slimefun
-          material: FOX_TUZAIXINPIAN
-          amount: 1
   input: [10]
   output: [4,5,6,7,8,13,14,15,16,17,22,23,24,25,26,31,32,33,34,35,40,41,42,43,44,49,50,51,52,53]
 
@@ -7401,6 +7193,7 @@ GUANG_AN_KUANGJI:
     guanganshouji:
       seconds: 0
       chooseOne: true
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7427,11 +7220,6 @@ GUANG_AN_KUANGJI:
           material_type: slimefun
           material: MOMOTECH_SHINE
           amount: 8
-        5:
-          chance: 100
-          material_type: slimefun
-          material: G_A_XUKE
-          amount: 1
   input: [4]
   output: [37,38,39,40,41,42,43,46,47,48,49,50,51,52]
 
@@ -7497,6 +7285,7 @@ HUN_NINGTU_JIAGONG:
   recipes:
     '1':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7507,12 +7296,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: WHITE_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: WHITE_HUNNINGTU
-          amount: 1
     '2':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7523,12 +7309,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: YELLOW_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: YELLOW_HUNNINGTU
-          amount: 1
     '3':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7539,12 +7322,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: BLUE_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: BLUE_HUNNINGTU
-          amount: 1
     '4':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7555,12 +7335,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: PINK_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: PINK_HUNNINGTU
-          amount: 1
     '5':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7571,12 +7348,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: RED_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: RED_HUNNINGTU
-          amount: 1
     '6':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7587,12 +7361,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: BLACK_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: BLACK_HUNNINGTU
-          amount: 1
     '7':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7603,12 +7374,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: GREEN_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: GREEN_HUNNINGTU
-          amount: 1
     '8':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7619,12 +7387,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: PURPLE_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: PURPLE_HUNNINGTU
-          amount: 1
     '9':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7635,12 +7400,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: GRAY_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: GRAY_HUNNINGTU
-          amount: 1
     '10':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7651,12 +7413,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: LIGHT_GRAY_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: DANHUI_HUNNINGTU
-          amount: 1
     '11':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7667,12 +7426,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: BROWN_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: BROWN_HUNNINGTU
-          amount: 1
     '12':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7683,12 +7439,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: CYAN_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: CYAN_HUNNINGTU
-          amount: 1
     '13':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7699,12 +7452,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: ORANGE_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: ORANGE_HUNNINGTU
-          amount: 1
     '14':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7715,12 +7465,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: MAGENTA_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: MAGENTA_HUNNINGTU
-          amount: 1
     '15':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7731,12 +7478,9 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: LIGHT_BLUE_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: DANLAN_HUNNINGTU
-          amount: 1
     '16':
       seconds: 0
+      noConsume: true
       input:
         1:
           material_type: slimefun
@@ -7747,10 +7491,6 @@ HUN_NINGTU_JIAGONG:
           material_type: mc
           material: LIME_CONCRETE
           amount: 32
-        2:
-          material_type: slimefun
-          material: HUANGLV_HUNNINGTU
-          amount: 1
   input: [10]
   output: [14,15,16]
 
