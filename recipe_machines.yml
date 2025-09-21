@@ -3701,18 +3701,18 @@ KAPIAN_XULIEJI:
           material: REINFORCED_ALLOY_INGOT
           amount: 32
     '38':
-      seconds: 0
+      seconds: 1
       noConsume: true
       input:
         1:
           material_type: slimefun
-          material: YINHUA_JINSHU_KAPIAN
+          material: YING_HUA_JINSHU_KAPIAN
           amount: 1
       output:
         1:
           material_type: slimefun
           material: HARDENED_METAL_INGOT
-          amount: 32
+          amount: 48
     '39':
       seconds: 0
       noConsume: true
