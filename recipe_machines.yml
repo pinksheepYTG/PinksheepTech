@@ -3369,12 +3369,12 @@ KAPIAN_XULIEJI:
         1:
           material_type: slimefun
           material: HUANGTONG_KAPIAN
-          amount: 32
+          amount: 1
       output:
         1:
           material_type: slimefun
           material: BRASS_INGOT
-          amount: 16
+          amount: 32
     '13':
       seconds: 0
       noConsume: true

@@ -6,13 +6,13 @@ GGXX:
     lore:
     - '&7由老版sc升级为最新rsc，正式恢复更新，并且去除bate版本号!'
     - '&c这里碎碎念一下，有关逻辑堆叠目前还是不要用了，在mtl还没进行项目复更，堆叠还是先不要用了。。！'
-    - '&7修复  卡片技术-硬化金属不产出问题 （请使用最新版RSC已提供更加全面的支持）'
+    - '&7修复  令人非常脑抽[32个不能堆叠的卡片在一起]的问题（请使用最新版RSC已提供更加全面的支持）'
     - '&7有什么好的想法可以联系作者，作者&fQQ：1121289406'
     - '&7------未经许可·禁止修改内容-----'
     - '&7|  &6本附属是pinksheepYTG独自研发! &7|'
     - '&7--------------------------'
     - '&5此附属依旧处于更新。。!'
-    - '&5目前版本：&f&lRelease 1.0.0.2 - Rb1 (正式版)'
+    - '&5目前版本：&f&lRelease 1.0.0.2 - Rb2 (正式版)'
     - '&7目前附属开发进度：&f28%'
     material_type: skull_base64
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWEwZGJkYWM0MzIyYTg5NjkwNGM5MmI1NDgyMzc3NjFmODU2MjAyYTBhMjY4NTliNzA4ZDQ4ZGYzNzJjMWJjNyJ9fX0=
