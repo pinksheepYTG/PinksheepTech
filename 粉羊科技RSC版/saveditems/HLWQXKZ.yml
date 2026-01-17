@@ -1,0 +1,20 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: PAPER
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"obfuscated":true,"color":"dark_gray","text":"6"},{"text":"
+      "},{"bold":true,"color":"gold","text":"华丽武器制作许可证"},{"obfuscated":true,"text":"
+      "},{"obfuscated":true,"color":"dark_gray","text":"6"}],"text":""}'
+    lore:
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"用于"},{"bold":true,"color":"aqua","text":"合成"},{"bold":true,"color":"gold","text":"华丽武器"},{"bold":true,"text":"的"},{"bold":true,"color":"red","text":"关键物品"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"可以进行"},{"bold":true,"color":"gold","text":"华丽武器"},{"bold":true,"text":"制作"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"yellow","text":"极其稀有"}],"text":""}'
+    enchants:
+      VANISHING_CURSE: 1
+    ItemFlags:
+    - HIDE_ENCHANTS

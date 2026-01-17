@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_SHOVEL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"color":"dark_gray","text":"⛇"},{"bold":true,"text":"
+      "},{"bold":true,"color":"#3FA1FF","text":"杂鱼"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"·"},{"bold":true,"text":"
+      "},{"bold":true,"color":"#FF0000","text":"星际"},{"bold":true,"text":"之"},{"bold":true,"color":"#FFC1FF","text":"铲"},{"text":"
+      "},{"color":"dark_gray","text":"⛇"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"开拓"},{"bold":true,"italic":true,"color":"blue","text":"星辰"},{"bold":true,"text":"与"},{"bold":true,"italic":true,"color":"red","text":"深渊"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"来自"},{"bold":true,"italic":true,"color":"dark_red","text":"宇宙"},{"bold":true,"text":"的"},{"bold":true,"underlined":true,"text":"神奇"},{"bold":true,"italic":true,"underlined":true,"color":"light_purple","text":"铲子"}],"text":""}'
+    enchants:
+      DIG_SPEED: 50
+      LOOT_BONUS_BLOCKS: 30
+    Unbreakable: true

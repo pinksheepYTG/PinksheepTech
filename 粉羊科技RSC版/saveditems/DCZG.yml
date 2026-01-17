@@ -1,0 +1,31 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: IRON_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"text":"["},{"text":"
+      "},{"bold":true,"color":"blue","text":"缎 绸"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"之"},{"bold":true,"text":"
+      "},{"bold":true,"color":"light_purple","text":"镐 "},{"bold":true,"text":"]"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gray","text":"可以"},{"bold":true,"color":"yellow","text":"挖掘"},{"bold":true,"italic":true,"underlined":true,"color":"red","text":"很多"},{"bold":true,"color":"blue","text":"原生"},{"bold":true,"color":"aqua","text":"物品"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"italic":true,"color":"red","text":"收集党福音！"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"text":"      "},{"obfuscated":true,"text":"d"},{"text":"
+      "},{"bold":true,"color":"#6CA39C","text":"普通工具"},{"obfuscated":true,"text":"
+      d"}],"text":""}'
+    enchants:
+      DIG_SPEED: 10
+      SILK_TOUCH: 1
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: ''
+        slot: HAND
+        uuid: ebe4364a-5662-4059-ba93-80263771d821
+        operation: 0
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES

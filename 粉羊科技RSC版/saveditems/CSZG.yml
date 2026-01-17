@@ -1,0 +1,37 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"#844F57","text":"⚒"},{"bold":true,"text":"
+      "},{"bold":true,"color":"#0BBCFF","text":"杂鱼"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"·"},{"bold":true,"text":"
+      "},{"bold":true,"color":"gold","text":"创世"},{"bold":true,"color":"dark_gray","text":"之"},{"bold":true,"color":"red","text":"镐"},{"bold":true,"text":"
+      "},{"bold":true,"color":"#844F00","text":"⚒"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gray","text":"拥有"},{"bold":true,"italic":true,"color":"#00E2FF","text":"创造"},{"bold":true,"color":"gray","text":"一切的"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"力量"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"也拥有"},{"bold":true,"underlined":true,"color":"#480000","text":"摧毁"},{"bold":true,"color":"dark_gray","text":"一切的"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"力量"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"obfuscated":true,"text":"f"},{"text":"
+      "},{"bold":true,"color":"gold","text":"华丽工具"},{"bold":true,"text":" "},{"bold":true,"obfuscated":true,"text":"f"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    enchants:
+      DIG_SPEED: 50
+      LOOT_BONUS_BLOCKS: 30
+    attribute-modifiers:
+      GENERIC_MOVEMENT_SPEED:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.05
+        name: ''
+        slot: HAND
+        uuid: 72f9a894-4dd4-4aec-b84c-bbdde5fe37c9
+        operation: 0
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 8.0
+        name: ''
+        slot: HAND
+        uuid: 375edaf5-c578-4fa4-9f36-69961c92cb63
+        operation: 0
+    Unbreakable: true

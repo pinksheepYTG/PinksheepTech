@@ -1,0 +1,48 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: CROSSBOW
+  meta:
+    ==: ItemMeta
+    meta-type: CROSSBOW
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"dark_red","text":"☢"},{"bold":true,"text":"
+      "},{"bold":true,"color":"#AF55C0","text":"AWM"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"-"},{"bold":true,"text":"
+      "},{"bold":true,"color":"gold","text":"神圣"},{"bold":true,"color":"red","text":"裁决"},{"bold":true,"text":"
+      "},{"bold":true,"color":"dark_red","text":"☢"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gray","text":"全"},{"bold":true,"color":"gold","text":"自动"},{"bold":true,"color":"blue","text":"栓狙"},{"bold":true,"color":"gray","text":"，给予"},{"bold":true,"underlined":true,"color":"red","text":"敌人"},{"bold":true,"color":"gold","text":"重重"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"一击"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"dark_gray","text":"来自现代"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"科技"},{"bold":true,"color":"dark_gray","text":"的"},{"bold":true,"italic":true,"underlined":true,"color":"gold","text":"制裁"},{"bold":true,"color":"dark_gray","text":"！"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"obfuscated":true,"color":"dark_gray","text":"d"},{"bold":true,"text":"
+      "},{"bold":true,"color":"gold","text":"华丽武器"},{"bold":true,"color":"dark_gray","text":"
+      "},{"bold":true,"obfuscated":true,"color":"dark_gray","text":"d"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    enchants:
+      PIERCING: 10
+      QUICK_CHARGE: 5
+    attribute-modifiers:
+      GENERIC_MOVEMENT_SPEED:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.06
+        name: ''
+        slot: OFF_HAND
+        uuid: d3e7693d-8949-4c84-9c31-a326449ff9ad
+        operation: 0
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 3.0
+        name: ''
+        slot: OFF_HAND
+        uuid: 9ab65f60-7b3c-4d67-a4a2-4d58c02b43c2
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.002
+        name: ''
+        slot: OFF_HAND
+        uuid: 5be23fd1-31c6-4e49-ab5b-d91b3b4a5c4e
+        operation: 0
+    Unbreakable: true
+    PublicBukkitValues:
+      slimefun:slimefun_item: AWMSJ
+    charged: false

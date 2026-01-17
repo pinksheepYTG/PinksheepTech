@@ -1,0 +1,61 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: NETHERITE_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"italic":false,"extra":[{"text":""},{"bold":true,"color":"gold","text":"❁"},{"bold":true,"text":"
+      "},{"bold":true,"color":"blue","text":"杂鱼"},{"bold":true,"text":" "},{"bold":true,"color":"dark_gray","text":"·"},{"bold":true,"text":"
+      "},{"bold":true,"color":"red","text":"末日"},{"bold":true,"color":"dark_red","text":"审判"},{"bold":true,"text":"
+      "},{"bold":true,"color":"gold","text":"❁"}],"text":""}'
+    lore:
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"本"},{"bold":true,"color":"#FFA7FF","text":"附属"},{"bold":true,"text":"的"},{"bold":true,"color":"dark_red","text":"毕业武器"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"text":"此"},{"bold":true,"italic":true,"color":"red","text":"武器"},{"bold":true,"text":"高于"},{"bold":true,"underlined":true,"color":"red","text":"无尽武器"},{"bold":true,"text":"，请"},{"bold":true,"strikethrough":true,"color":"dark_red","text":"酌情制作"},{"bold":true,"text":"！"}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gray","text":"由整个"},{"bold":true,"underlined":true,"color":"green","text":"Minecraft"},{"bold":true,"color":"dark_gray","text":"大陆"},{"bold":true,"text":"最杰出的"},{"bold":true,"italic":true,"underlined":true,"color":"dark_red","text":"武器匠"},{"bold":true,"text":"制作，"},{"bold":true,"italic":true,"underlined":true,"color":"#FF8656","text":"威力巨大"},{"bold":true,"text":"！"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    - '{"italic":false,"color":"white","extra":[{"text":""},{"bold":true,"color":"gold","text":"华丽武器"}],"text":""}'
+    - '{"extra":[{"text":""}],"text":""}'
+    enchants:
+      DAMAGE_ARTHROPODS: 10
+      FIRE_ASPECT: 20
+      LOOT_BONUS_MOBS: 15
+      DAMAGE_ALL: 40
+      DAMAGE_UNDEAD: 10
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 20.0
+        name: ''
+        slot: OFF_HAND
+        uuid: d4464d27-bd9f-4593-80ad-4216ccdda8c4
+        operation: 0
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 10.0
+        name: ''
+        slot: HAND
+        uuid: f9bc96f7-dad1-44aa-8ef4-d581dea9c657
+        operation: 0
+      GENERIC_MAX_HEALTH:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 10.0
+        name: ''
+        slot: OFF_HAND
+        uuid: 661cdbbe-ec5d-4435-b16f-7b1d7331b50e
+        operation: 0
+      GENERIC_ATTACK_SPEED:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.05
+        name: ''
+        slot: OFF_HAND
+        uuid: c514af39-e214-463f-b807-2802a046f8a2
+        operation: 0
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 10.0
+        name: ''
+        uuid: d9e071c9-ccba-448d-8091-8f8f6d030661
+        operation: 0
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    Unbreakable: true

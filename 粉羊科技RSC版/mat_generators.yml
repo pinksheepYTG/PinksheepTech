@@ -1,0 +1,2529 @@
+JYXKZSC:
+  lateInit: true
+  item_group: zygy
+  item:
+    name: '&5&l精英生产器'
+    lore:
+    - '&8&l以时间的代价生产精英武器许可证！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 6000 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 40,000 J 可存储'
+    - '&8⇨ &e⚡&7 4,000 J/s'
+    material: TUFF
+    amount: 1
+  capacity: 40000
+  per: 2000
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: VOID_HARVESTER
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+  status: 0
+  tickRate: 6000
+  outputItem:
+    material_type: saveditem
+    material: JYWQXKZ
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+YCCKNJ:
+  lateInit: true
+  item_group: sjgy
+  item:
+    name: '&b&l一重草方块凝聚器'
+    lore:
+    - '&8&l终于不用挖草方块了= （！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 25 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 25,000 J 可存储'
+    - '&8⇨ &e⚡&7 2,400 J/s'
+    material: GRASS_BLOCK
+    amount: 1
+  capacity: 25000
+  per: 1200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WCYSCK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: NJJHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WCYSCK
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+  status: 0
+  tickRate: 25
+  outputItem:
+    material_type: slimefun
+    material: YCYSCK
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+YCDYYNJ:
+  lateInit: true
+  item_group: sjgy
+  item:
+    name: '&b&l一重地狱岩凝聚器'
+    lore:
+    - '&8&l终于不用挖地狱岩了= （！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 25 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 25,000 J 可存储'
+    - '&8⇨ &e⚡&7 2,400 J/s'
+    material: NETHERRACK
+    amount: 1
+  capacity: 25000
+  per: 1200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WCYSDYY
+      amount: 1
+    5:
+      material_type: slimefun
+      material: NJJHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WCYSDYY
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+  status: 0
+  tickRate: 25
+  outputItem:
+    material_type: slimefun
+    material: YCYSDYY
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+YCMDSNJ:
+  lateInit: true
+  item_group: sjgy
+  item:
+    name: '&b&l一重末地石凝聚器'
+    lore:
+    - '&8&l末地石什么的都去死啦！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 25 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 25,000 J 可存储'
+    - '&8⇨ &e⚡&7 2,400 J/s'
+    material: END_STONE
+    amount: 1
+  capacity: 25000
+  per: 1200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WCYSMDS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: NJJHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WCYSMDS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+  status: 0
+  tickRate: 25
+  outputItem:
+    material_type: slimefun
+    material: YCYSMDS
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+COAL_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l煤矿石生成器'
+    lore:
+    - '&8&l源源不断的煤炭矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: COAL_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: COAL_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: COAL_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+IRON_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l铁矿石生成器'
+    lore:
+    - '&8&l源源不断的铁矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: IRON_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: IRON_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: IRON_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+COPPER_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l铜矿石生成器'
+    lore:
+    - '&8&l源源不断的铜矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: COPPER_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: COPPER_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: COPPER_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+REDSTONE_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l红石矿石生成器'
+    lore:
+    - '&8&l源源不断的红石矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: REDSTONE_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: REDSTONE_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: REDSTONE_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+GOLD_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l金矿石生成器'
+    lore:
+    - '&8&l源源不断的黄金矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: GOLD_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: GOLD_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: GOLD_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+EMERALD_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l绿宝石矿石生成器'
+    lore:
+    - '&8&l源源不断的绿宝石矿物！！!'
+    - '&2村民狂喜！'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: EMERALD_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: EMERALD_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: EMERALD_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+LAPIS_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l青金石矿石生成器'
+    lore:
+    - '&8&l源源不断的青金石矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: LAPIS_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: LAPIS_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: LAPIS_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+DIAMOND_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l钻石矿石生成器'
+    lore:
+    - '&8&l源源不断的钻石矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: DIAMOND_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: DIAMOND_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: DIAMOND_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+NETHER_QUARTZ_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l下界石英矿石生成器'
+    lore:
+    - '&8&l源源不断的下界石英矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: NETHER_QUARTZ_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: NETHER_QUARTZ_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: NETHER_QUARTZ_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+NETHER_GOLD_ORESC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l下界黄金矿石生成器'
+    lore:
+    - '&8&l来自下界的黄金矿物！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: NETHER_GOLD_ORE
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: NETHER_GOLD_ORE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: NETHER_GOLD_ORE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+ANCIENT_DEBRISSC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&b&l远古遗骸生成器'
+    lore:
+    - '&8&l来自远古的遗骸！！!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2,400 J 可存储'
+    - '&8⇨ &e⚡&7 1,024 J/s'
+    material: ANCIENT_DEBRIS
+    amount: 1
+  capacity: 2400
+  per: 512
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: mc
+      material: ANCIENT_DEBRIS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: GCE_EXCITATION_CHAMBER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: ANCIENT_DEBRIS
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+WJYT1:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&b&l无尽锭一体机 - &4I'
+    lore:
+    - '&4没有人能够进行这一步制作!'
+    - '&4&l绝对没有!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 32 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 60,000 J 可存储'
+    - '&8⇨ &e⚡&7 16,000 J/s'
+    material_type: skull_hash
+    material: 4fc41b7eb635b19f84daca6d74101aa81683ccac42ca6090e36d425099283334
+    amount: 1
+  capacity: 60000
+  per: 8000
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MC_JS
+      amount: 1
+    2:
+      material_type: slimefun
+      material: NJJHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MC_JS
+      amount: 1
+    4:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: GAIZAO_ZHIZUO_V
+      amount: 1
+    6:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: YUAN_GUJINLI
+      amount: 1
+    8:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: YUAN_GUJINLI
+      amount: 1
+  status: 0
+  tickRate: 32
+  outputItem:
+    material_type: slimefun
+    material: INFINITE_INGOT
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+WJYT2:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&b&l无尽锭一体机 - &4II'
+    lore:
+    - '&4已经有人做到这里了吗，有趣，有趣!'
+    - '&4&l你已经被 &b&lSOS 锁定 ，请自重!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 12 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 72,000 J 可存储'
+    - '&8⇨ &e⚡&7 24,000 J/s'
+    material_type: skull_hash
+    material: 2ee06321bcca58eadc78aeafef188bb613a2a82c3c27ff22aef45c4df2b3d8
+    amount: 1
+  capacity: 72000
+  per: 12000
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+    2:
+      material_type: mc
+      material: BEDROCK
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: MC_JS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WJYT1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: MC_JS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WJYT1
+      amount: 1
+    9:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+  status: 0
+  tickRate: 12
+  outputItem:
+    material_type: slimefun
+    material: INFINITE_INGOT
+    amount: 4
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+WJYT3:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&b&l无尽锭一体机 - &4III'
+    lore:
+    - '&4Emm..不错不错，很有毅力呢!'
+    - '&4&l现在无尽的大门向最珍贵的您开启！! （享受最后的末日！）'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 6 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 85,000 J 可存储'
+    - '&8⇨ &e⚡&7 30,000 J/s'
+    material_type: skull_hash
+    material: 42e87089f9329b54c9a5965625354107c7f96b3054f1def8ceea2b90ce6f8d
+    amount: 1
+  capacity: 85000
+  per: 15000
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YUAN_GUJINLI
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WJYT2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: YUAN_GUJINLI
+      amount: 1
+    4:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WUXIAN_HX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CPUHX
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WJYT2
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CPUHX
+      amount: 1
+  status: 0
+  tickRate: 6
+  outputItem:
+    material_type: slimefun
+    material: INFINITE_INGOT
+    amount: 6
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+#------------------------------------------------------------------------
+
+
+QHHJDYTH:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&3&l强化合金锭一体机'
+    lore:
+    - '&c&l来自电力的全新时代(堆数量有惊喜哦~)！'
+    - '&7该机器逻辑升级用于加速强化合金产出！'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 12 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 22000 J 可存储'
+    - '&8⇨ &e⚡&7 3400 J/s'
+    material_type: skull_hash
+    material: 3a7cda9004fc197d66afbc2b003a5b9ef13cf4600b1fc7490067590f047181e
+    amount: 1
+  capacity: 22000
+  per: 3400
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: MDFZD
+      amount: 1
+  status: 0
+  tickRate: 12
+  outputItem:
+    material_type: slimefun
+    material: REINFORCED_ALLOY_INGOT
+    amount: 4
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+
+
+YJKYT_1:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&c&l岩浆块一体机 - &5I'
+    lore:
+    - '&7哇！全自动岩浆块!'
+    - '&7&l不过没什么作用= （!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 1024 J 可存储'
+    - '&8⇨ &e⚡&7 128 J/s'
+    material_type: skull_hash
+    material: 8c9589fa01feea3f1ae9147ca5e25f5fabce4ef08fb7357316bf67879b589dad
+    amount: 1
+  capacity: 1024
+  per: 128
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CORINTHIAN_BRONZE_INGOT
+      amount: 1
+    2:
+      material_type: mc
+      material: MAGMA_BLOCK
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CORINTHIAN_BRONZE_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DURALUMIN_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DURALUMIN_INGOT
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: MAGMA_BLOCK
+    amount: 1
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+
+
+
+
+YJKYT_2:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&c&l岩浆块一体机 - &7II'
+    lore:
+    - '&7哇！升级版的全自动岩浆块!'
+    - '&c&l效率  up↑!'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2048 J 可存储'
+    - '&8⇨ &e⚡&7 256 J/s'
+    material_type: skull_hash
+    material: 721d0930bd61fea4cb9027b00e94e13d62029c524ea0b3260c747457ba1bcfa1
+    amount: 1
+  capacity: 2048
+  per: 256
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: YJKYT_1
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+  status: 0
+  tickRate: 1
+  outputItem:
+    material_type: mc
+    material: MAGMA_BLOCK
+    amount: 16
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+NTYTH:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&3&l泥土一体机'
+    lore:
+    - ''
+    - '&7&l空岛的救星！'
+    - ''
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 2 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 512 J 可存储'
+    - '&8⇨ &e⚡&7 128 J/s'
+    material_type: skull_hash
+    material: 5a770aa575835e4e800e3b3cf661659f2540fcecd5ba4add352c552f27a1621f
+    amount: 1
+  capacity: 512
+  per: 128
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: BILLON_INGOT
+      amount: 1
+    5:
+      material_type: mc
+      material: DIRT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: BILLON_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: BATTERY
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+  status: 0
+  tickRate: 2
+  outputItem:
+    material_type: mc
+    material: DIRT
+    amount: 4
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+SYYTH:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&7&l石英一体机'
+    lore:
+    - ''
+    - '&7快速畸变成石英！！'
+    - '&7  up↑ 生产'
+    - '&e材料生成器'
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 520 J 可存储'
+    - '&8⇨ &e⚡&7 24 J/s'
+    material_type: skull_hash
+    material: 566d7b91294b9b1cb9f4132c02dd533221320fcf0696e1a1151543d612d2db
+    amount: 1
+  capacity: 520
+  per: 24
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    8:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: mc
+    material: QUARTZ
+    amount: 5
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+GUIYTH:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&f&l硅一体机'
+    lore:
+    - ''
+    - '&7&l全自动硅生产！！'
+    - ''
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 1200 J 可存储'
+    - '&8⇨ &e⚡&7 360 J/s'
+    material_type: skull_hash
+    material: ea13af36ec8f1c2a6ca8a3b85b0e52864a1b0e77e6b917942780648e7d373ac8
+    amount: 1
+  capacity: 1200
+  per: 360
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: RZGJRT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    8:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    9:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputItem:
+    material_type: slimefun
+    material: SILICON
+    amount: 4
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+NONE_YITI:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&8&lNONE一体机'
+    lore:
+    - ''
+    - '&7&l简化了复杂又可笑的计数环节并'
+    - '&7&l优化了传统的NONE生产方式，从现在开始实现全新NONE生产'
+    - '&b&o乱码辅助机器'
+    - ''
+    - '&8⇨ &7速度: &b每 6 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 12000 J 可存储'
+    - '&8⇨ &e⚡&7 2500 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM3ZDNmMjhhZWZiYjIxNTJhY2M2MmU4ZGY1MjYzOTA4NjM0ZGQ0N2UyMDg5NTQ0NDNmYzY5NTM1YjlmMmRlYiJ9fX0=
+    amount: 1
+  capacity: 12000
+  per: 2500
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: ANDROID_MEMORY_CORE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CPUHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ANDROID_MEMORY_CORE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: REN_ZAO_GAOJIGJ
+      amount: 1
+    9:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+  status: 0
+  tickRate: 6
+  outputItem:
+    material_type: slimefun
+    material: MOMOTECH_NONE
+    amount: 2
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+AIR_XICHENQI:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&b&l空气吸尘器'
+    lore:
+    - ''
+    - '&7&l吸附来自空气中的粉尘'
+    - ''
+    - '&b机器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 521 J 可存储'
+    - '&8⇨ &e⚡&7 24 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjU0MjczOTRhZjliMDQ3MjdkYzY3ZjBkOTE0NTdkYjgyMzI1MGVlMjJjMGU5NDFkNGY4ODg2MDkwZWQ2ZTgxOSJ9fX0=
+    amount: 1
+  capacity: 521
+  per: 24
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: COPPER_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRIC_GOLD_PAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: COPPER_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: STEEL_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ELECTRIC_DUST_WASHER
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STEEL_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+  status: 0
+  tickRate: 4
+  outputs:
+    1:
+      material_type: slimefun
+      material: IRON_DUST
+      amount: 2
+    2:
+      material_type: slimefun
+      material: GOLD_DUST
+      amount: 2
+    3:
+      material_type: slimefun
+      material: COPPER_DUST
+      amount: 2
+    4:
+      material_type: slimefun
+      material: TIN_DUST
+      amount: 2
+    5:
+      material_type: slimefun
+      material: LEAD_DUST
+      amount: 2
+    6:
+      material_type: slimefun
+      material: SILVER_DUST
+      amount: 2
+    7:
+      material_type: slimefun
+      material: ALUMINUM_DUST
+      amount: 2
+    8:
+      material_type: slimefun
+      material: ZINC_DUST
+      amount: 2
+    9:
+      material_type: slimefun
+      material: MAGNESIUM_DUST
+      amount: 2
+  output: [9,10,11,12,13,14,15,16,17]
+
+
+
+
+
+
+
+
+
+JICHU_BAOFAZUZHUANG:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&4&l基础电路板爆发组装仪'
+    lore:
+    - ''
+    - '&8&l模拟了一只铁傀儡从生到死的进程'
+    - '&8&l及其产物即为在傀儡深处所得！'
+    - '&b机器'
+    - '&8⇨ &7速度: &b每 2 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 8350 J 可存储'
+    - '&8⇨ &e⚡&7 1520 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRiMDBjY2IzOTgxNTc0Yzg3YWNlY2ZmNDE4Y2Q0NmFmYzQ1MDVkZTY2MWQyYTg2ZGQxNzcyOTA5MjExYmQ0ZCJ9fX0=
+    amount: 1
+  capacity: 8350
+  per: 1520
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    3:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    8:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+  status: 0
+  tickRate: 2
+  outputItem:
+    material_type: slimefun
+    material: BASIC_CIRCUIT_BOARD
+    amount: 4
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+ZHU_SHIJIE_CHAOXIANSC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&a&lThe Overworld&b&l矿物生成（超限）'
+    lore:
+    - ''
+    - '&7&l凝聚The Overworld的所有矿物'
+    - ''
+    - '&b材料生成器——矿物超限机器'
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 5000 J 可存储'
+    - '&8⇨ &e⚡&7 1200 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNjY2MzMzBmNTE4OWY0ZTQzNGExZmIwN2EwNzJlYTU2YzI0NmEyZjZiODZhZjNmYTRhMGJkZTUzMTNmNGI0YiJ9fX0=
+    amount: 1
+  capacity: 5000
+  per: 1200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ZHU_SHI_JIE_KUANGWUHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    8:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+  status: 4
+  tickRate: 1
+  outputs:
+    1:
+      material_type: mc
+      material: COAL
+      amount: 64
+    2:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 64
+    3:
+      material_type: mc
+      material: COPPER_INGOT
+      amount: 64
+    4:
+      material_type: mc
+      material: GOLD_INGOT
+      amount: 64
+    5:
+      material_type: mc
+      material: REDSTONE
+      amount: 64
+    6:
+      material_type: mc
+      material: EMERALD
+      amount: 64
+    7:
+      material_type: mc
+      material: DIAMOND
+      amount: 64
+    8:
+      material_type: mc
+      material: LAPIS_LAZULI
+      amount: 64
+  output: [9,10,11,12,13,14,15,16,17]
+
+
+
+
+XIAJIE_CHAOXIANSC:
+  lateInit: true
+  item_group: clscq
+  item:
+    name: '&c&lThe Nether&b&l矿物生成（超限）'
+    lore:
+    - ''
+    - '&7&l凝聚The Nether的所有矿物'
+    - ''
+    - '&b材料生成器——矿物超限机器'
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 5000 J 可存储'
+    - '&8⇨ &e⚡&7 1200 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJhN2E2MDZkYmIzMDM5MzIyMmNhYzBlMDY1YWJjMDYwYmQwYzZjYzRlMTcyOTY2YmMyOTYwYjJiOTQ2MDlhYyJ9fX0=
+    amount: 1
+  capacity: 5000
+  per: 1200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DURALUMIN_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: XIA_JIE_KUANGWUHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DURALUMIN_INGOT
+      amount: 1
+  status: 4
+  tickRate: 1
+  outputs:
+    1:
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+    2:
+      material_type: mc
+      material: NETHERITE_INGOT
+      amount: 64
+  output: [9,10,11,12,13,14,15,16,17]
+
+
+
+BUKEKONG_YITI:
+  lateInit: true
+  item_group: ythcx
+  item:
+    name: '&c&l不可控空一体机'
+    lore:
+    - ''
+    - '&7&l还在用装配机和手动合成？？'
+    - '&7&l不如试试一体机吧 高效率生成 '
+    - '&b&o乱码辅助机器'
+    - ''
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 15000 J 可存储'
+    - '&8⇨ &e⚡&7 3000 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDc0NGExYTQzZDQ4ZTZiMDFmYjk4YjhiNTQ2MTQ2MzhlZjUyMDlkZTcyYmU5OWI1YzRjMDRkZWM2NWE4ZGQ5NyJ9fX0=
+    amount: 1
+  capacity: 15000
+  per: 3000
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CPUHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HARDENED_GLASS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: BUKEKONG_ZHUANGPEI
+      amount: 1
+    6:
+      material_type: slimefun
+      material: MAGICAL_GLASS
+      amount: 1
+    7:
+      material_type: slimefun
+      material: REDSTONE_ALLOY
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: REDSTONE_ALLOY
+      amount: 1
+  status: 0
+  tickRate: 1
+  outputItem:
+    material_type: slimefun
+    material: MOMOTECH_UNCONTROLLABLE_EMPTY_
+    amount: 12
+  output: [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+
+
+END_LIZISHENG_CHENG:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&5&l末地粒子产生器'
+    lore:
+    - ''
+    - '&f&l终于可以不用去末地挖那可怜的粒子了= ）'
+    - ''
+    - '&b末地科技辅助机器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 2048 J 可存储'
+    - '&8⇨ &e⚡&7 1500 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThmYTdjYTZmMDhmMTRhZGQzMzgxZWJlZTM2MTE1NzQzYjRiMWI2NjM1NWE1MGMzMjgxMjQ5NjAyNjQzOGVhYiJ9fX0=
+    amount: 1
+  capacity: 2048
+  per: 1500
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: QUIRP_UP
+      amount: 1
+    2:
+      material_type: slimefun
+      material: HORIZONTAL_POLARIZER
+      amount: 1
+    3:
+      material_type: slimefun
+      material: QUIRP_RIGHT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: QUIRP_OSCILLATOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: QUIRP_CYCLER
+      amount: 1
+    7:
+      material_type: slimefun
+      material: QUIRP_DOWN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VERTICAL_POLARIZER
+      amount: 1
+    9:
+      material_type: slimefun
+      material: QUIRP_LEFT
+      amount: 1
+  status: 13
+  tickRate: 4
+  outputs:
+    1:
+      material_type: slimefun
+      material: QUIRP_UP
+      amount: 1
+    2:
+      material_type: slimefun
+      material: QUIRP_DOWN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: QUIRP_LEFT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: QUIRP_RIGHT
+      amount: 1
+  output: [1,7,19,25]
+
+
+
+
+
+RANLIAO_GONGFANG:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&7&l染料工厂'
+    lore:
+    - ''
+    - '&a&l这是？染料自动化！'
+    - ''
+    - '&b原版机器'
+    - '&8⇨ &7速度: &b每 6 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 5432 J 可存储'
+    - '&8⇨ &e⚡&7 950 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTRhYWZjMzg1NTJkOGYzODAxMGY2YTllNzMxZmI3YTgxYmQ3NTFhZjRkNGY2NTBiNjNkODRlYzBkZjdhYmU2MiJ9fX0=
+    amount: 1
+  capacity: 5432
+  per: 950
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TITANIUM
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: TITANIUM
+      amount: 1
+    7:
+      material_type: slimefun
+      material: HEATED_PRESSURE_CHAMBER_2
+      amount: 1
+    8:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: HEATED_PRESSURE_CHAMBER_2
+      amount: 1
+  status: 4
+  tickRate: 6
+  outputs:
+    1:
+      material_type: mc
+      material: WHITE_DYE
+      amount: 2
+    2:
+      material_type: mc
+      material: LIGHT_GRAY_DYE
+      amount: 2
+    3:
+      material_type: mc
+      material: GRAY_DYE
+      amount: 2
+    4:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 2
+    5:
+      material_type: mc
+      material: BROWN_DYE
+      amount: 2
+    6:
+      material_type: mc
+      material: RED_DYE
+      amount: 2
+    7:
+      material_type: mc
+      material: ORANGE_DYE
+      amount: 2
+    8:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 2
+    9:
+      material_type: mc
+      material: PINK_DYE
+      amount: 2
+    10:
+      material_type: mc
+      material: LIME_DYE
+      amount: 2
+    11:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 2
+    12:
+      material_type: mc
+      material: CYAN_DYE
+      amount: 2
+    13:
+      material_type: mc
+      material: LIGHT_BLUE_DYE
+      amount: 2
+    14:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 2
+    15:
+      material_type: mc
+      material: PURPLE_DYE
+      amount: 2
+    16:
+      material_type: mc
+      material: MAGENTA_DYE
+      amount: 2
+  output: [9,10,11,12,13,14,15,16,17,19,20,21,22,23,24,25]
+
+
+
+
+
+
+
+AIR_XICHENQI_PLUS:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&b&l空气吸尘器 &c&lPlus'
+    lore:
+    - ''
+    - '&7&l高级吸尘器Plus版'
+    - ''
+    - '&b机器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 5200 J 可存储'
+    - '&8⇨ &e⚡&7 110 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU3ZWFiMTBmMmQxYjJlM2Q3ZDdhMDNjODczYWMzOTNmNmU0MzI1YTZmMDI1OThkNzFjN2I1OGVhY2NmNjNhNyJ9fX0=
+    amount: 1
+  capacity: 5200
+  per: 110
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: GILDED_IRON
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRIC_ORE_GRINDER_2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: GILDED_IRON
+      amount: 1
+    4:
+      material_type: slimefun
+      material: STEEL_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    6:
+      material_type: slimefun
+      material: STEEL_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ELECTRIC_DUST_WASHER_3
+      amount: 1
+    9:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+  status: 4
+  tickRate: 4
+  outputs:
+    1:
+      material_type: slimefun
+      material: IRON_DUST
+      amount: 16
+    2:
+      material_type: slimefun
+      material: GOLD_DUST
+      amount: 16
+    3:
+      material_type: slimefun
+      material: COPPER_DUST
+      amount: 16
+    4:
+      material_type: slimefun
+      material: TIN_DUST
+      amount: 16
+    5:
+      material_type: slimefun
+      material: LEAD_DUST
+      amount: 16
+    6:
+      material_type: slimefun
+      material: SILVER_DUST
+      amount: 16
+    7:
+      material_type: slimefun
+      material: ALUMINUM_DUST
+      amount: 16
+    8:
+      material_type: slimefun
+      material: ZINC_DUST
+      amount: 16
+    9:
+      material_type: slimefun
+      material: MAGNESIUM_DUST
+      amount: 16
+  output: [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]
+
+
+
+
+ZISHUIJING_CHANFANG:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&5&l紫水晶工厂'
+    lore:
+    - ''
+    - '&7&l这下不用去紫水晶山洞了 = ）'
+    - ''
+    - '&b机器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 520 J 可存储'
+    - '&8⇨ &e⚡&7 80 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2IwYTZjNjYwMjY3OWMyYzMzMDk3MzJiNWZhZWNmZjJlMDg3ZjFkMDUxZTBiYTZiNTJkN2YyMzYzNWVmYTYwYiJ9fX0=
+    amount: 1
+  capacity: 520
+  per: 80
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRIC_ORE_GRINDER
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JQHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: HEATING_COIL
+      amount: 1
+    7:
+      material_type: mc
+      material: AMETHYST_SHARD
+      amount: 1
+    8:
+      material_type: mc
+      material: AMETHYST_BLOCK
+      amount: 1
+    9:
+      material_type: mc
+      material: AMETHYST_SHARD
+      amount: 1
+  status: 4
+  tickRate: 4
+  outputs:
+    1:
+      material_type: mc
+      material: AMETHYST_SHARD
+      amount: 8
+  output: [9,10,11,12,13,14,15,16,17]
+
+
+
+YUAN_OLI_BAOFA:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&b&l原油生产机'
+    lore:
+    - ''
+    - '&7&l源源不断地泵出石油（免自然资源开采）'
+    - ''
+    - '&b地理资源机器'
+    - '&8⇨ &7速度: &b每 4 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 8000 J 可存储'
+    - '&8⇨ &e⚡&7 3200 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNlMDRiNDFkMTllYzc5MjdmOTgyYTYzYTk0YTNkNzlmNzhlY2VjMzMzNjMwNTFmZGUwODMxYmZhYmRiZCJ9fX0=
+    amount: 1
+  capacity: 8000
+  per: 3200
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MACHINE_PLATE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ANDROID_MEMORY_CORE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MACHINE_PLATE
+      amount: 1
+    4:
+      material_type: mc
+      material: DIAMOND_PICKAXE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID
+      amount: 1
+    7:
+      material_type: mc
+      material: BUCKET
+      amount: 1
+    8:
+      material_type: slimefun
+      material: OIL_PUMP
+      amount: 1
+    9:
+      material_type: mc
+      material: BUCKET
+      amount: 1
+  status: 4
+  tickRate: 4
+  outputs:
+    1:
+      material_type: slimefun
+      material: BUCKET_OF_OIL
+      amount: 8
+  output: [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]
+
+
+
+AIR_XICHENQI_PLUS_PRIME:
+  lateInit: true
+  item_group: dl
+  item:
+    name: '&b&l空气吸尘器 &c&lPlus &6- #0075ffP#4ba580r#4ba54fi#4b6aa5m#8d8dfde'
+    lore:
+    - ''
+    - '#ffffff全#f1d6f8新#e3adf0超#d484e9限#c65be1进#b832da化#b02eda的#aa3ddf吸#a54de3尘#a05ce8器#9b6bec，#9874e6满#9b70cd足#9e6cb3日#a26999常#a5657f需#a86165求'
+    - ''
+    - '&b机器'
+    - '&8⇨ &7速度: &b每 1 粘液刻生成一次'
+    - '&8⇨ &e⚡&7 52000 J 可存储'
+    - '&8⇨ &e⚡&7 1100 J/s'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZkMjBkMDNjMTc0NjMyNDYyOGYwYjA4M2QxNTYzYmRmODIwMDRmMjZhNGQxMTM2NGIzNjk5Mjg1NmZiNmJiNSJ9fX0=
+    amount: 1
+  capacity: 52000
+  per: 1100
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: ELECTRIC_DUST_WASHER_3
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRIC_ORE_GRINDER_3
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ELECTRIC_DUST_WASHER_3
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    5:
+      material_type: slimefun
+      material: AIR_XICHENQI_PLUS
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ELECTRIC_GOLD_PAN_3
+      amount: 1
+    7:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+    8:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    9:
+      material_type: slimefun
+      material: REINFORCED_PLATE
+      amount: 1
+  status: 4
+  tickRate: 1
+  outputs:
+    1:
+      material_type: slimefun
+      material: IRON_DUST
+      amount: 64
+    2:
+      material_type: slimefun
+      material: GOLD_DUST
+      amount: 64
+    3:
+      material_type: slimefun
+      material: COPPER_DUST
+      amount: 64
+    4:
+      material_type: slimefun
+      material: TIN_DUST
+      amount: 64
+    5:
+      material_type: slimefun
+      material: LEAD_DUST
+      amount: 64
+    6:
+      material_type: slimefun
+      material: SILVER_DUST
+      amount: 64
+    7:
+      material_type: slimefun
+      material: ALUMINUM_DUST
+      amount: 64
+    8:
+      material_type: slimefun
+      material: ZINC_DUST
+      amount: 64
+    9:
+      material_type: slimefun
+      material: MAGNESIUM_DUST
+      amount: 64
+  output: [9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
