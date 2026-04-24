@@ -4790,6 +4790,10 @@ SHENGWU_MONI_TUZAIQI:
           material_type: slimefun
           material: PARROT_FEATHER
           amount: 4
+        4:
+          material_type: mc
+          material: EGG
+          amount: 12
     '6':
       seconds: 2
       noConsume: true
@@ -4899,6 +4903,23 @@ SHENGWU_MONI_TUZAIQI:
           material_type: mc
           material: LEATHER
           amount: 8
+    '11':
+      seconds: 2
+      noConsume: true
+      input:
+        1:
+          material_type: slimefun
+          material: NIU_TUZAIXINPIAN
+          amount: 1
+      output:
+        1:
+          material_type: mc
+          material: LEATHER
+          amount: 32
+        2:
+          material_type: mc
+          material: BEEF
+          amount: 16
   input: [10]
   output: [4,5,6,7,8,13,14,15,16,17,22,23,24,25,26,31,32,33,34,35,40,41,42,43,44,49,50,51,52,53]
 

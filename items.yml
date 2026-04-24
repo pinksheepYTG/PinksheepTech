@@ -6,14 +6,16 @@ GGXX:
     lore:
     - '&7由老版sc升级为最新rsc，正式恢复更新，并且去除bate版本号!'
     - '&c这里碎碎念一下，有关逻辑堆叠目前还是不要用了，在mtl还没进行项目复更，堆叠还是先不要用了。。！'
-    - '&7修复  令人非常脑抽[32个不能堆叠的卡片在一起]的问题（请使用最新版RSC已提供更加全面的支持）'
+    - '&7依旧修复难缠得硬化生产 （请使用最新版RSC已提供更加全面的支持）'
+    - '&7鹦鹉模拟芯片新增鸡蛋获取 全新材料“pinktoday”合成关键部件 新增全新的模拟芯片 '
+    - '&7新子集 动物工艺 筹备中  敬请期待....'
     - '&7有什么好的想法可以联系作者，作者&fQQ：1121289406'
     - '&7------未经许可·禁止修改内容-----'
     - '&7|  &6本附属是pinksheepYTG独自研发! &7|'
     - '&7--------------------------'
     - '&5此附属依旧处于更新。。!'
-    - '&5目前版本：&f&lRelease 1.0.0.2 - Rb2 (正式版)'
-    - '&7目前附属开发进度：&f28%'
+    - '&5目前版本：&f&lRelease 1.0.0.4 (正式版)'
+    - '&7目前附属开发进度：&f30%'
     material_type: skull_base64
     material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWEwZGJkYWM0MzIyYTg5NjkwNGM5MmI1NDgyMzc3NjFmODU2MjAyYTBhMjY4NTliNzA4ZDQ4ZGYzNzJjMWJjNyJ9fX0=
     amount: 1
@@ -1889,6 +1891,24 @@ MC_JS:
       material_type: slimefun
       material: REN_ZAO_GAOJIGJ
       amount: 1
+
+#============================
+
+PINK_TO_DAY:
+  lateInit: false
+  item_group: jccl
+  item:
+    name: '&6&lPink&7today'
+    lore:
+    - '&8希望 &6新生 &0还是毁灭 &f都取决于你自己！！'
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+
+#==============================
+
 YUAN_GUJINLI:
   lateInit: false
   item_group: jccl
@@ -8106,6 +8126,61 @@ ENDLONG_TUZAIXINPIAN:
       material_type: slimefun
       material: MDFZD
       amount: 1
+
+NIU_TUZAIXINPIAN:
+  lateInit: false
+  item_group: swmngcx
+  item:
+    name: '&b&l牛屠宰模拟芯片'
+    lore:
+    - '&7------=========------'
+    - '&4   模拟牛牛的一生'
+    - '&7------=========------'
+    - '&b&o模拟工程学芯片'
+    - '&7'
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4ZTJjNGFiN2QwNDBiMDUwZDgyOTdhMDM4NGY4MDAwYTQ5ZmQxYWMwYWY5MzQwYWZiYWY3NGJjMmZkMzk2YiJ9fX0=
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    2:
+      material_type: mc
+      material: DIAMOND_SWORD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DLJQB
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CPUHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: COW_DATA_CARD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SJHEXIN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: GJJXLJ
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ZI_SHUI_JIN_BAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: GJJXLJ
+      amount: 1
+
 
 
 DIAOLINGKULOU_TUZAIXINPIAN:
